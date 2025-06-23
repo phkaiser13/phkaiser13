@@ -56,7 +56,7 @@
 
 ## 📫 Contato
 
-- 📧 pedro.henrique@exemplo.com  
+- 📧 phgarcia2008@icloud.com    
 - 🌐 [Meu LinkedIn](https://www.linkedin.com/in/pedro-henrique-garcia-58b147371/)  
 - 💬 Aberto a parcerias, colaborações e novos desafios técnicos  
 
