@@ -1,4 +1,5 @@
-<h1 align="center">👋 Olá, eu sou o Pedro Henrique</h1>
+
+<h1 align="center">👋 Olá! Hello! ¡Hola! こんにちは！Salut!</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedro-henrique-garcia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
@@ -7,9 +8,9 @@
 
 ## Sobre mim
 
-- 🎓 **Jovem Prodígio** apaixonado por tecnologia e inovação  
-- 💼 **Engenheiro de Software** com foco em soluções robustas e escaláveis  
-- 🤖 **Engenheiro de Prompt** e estudante de Inteligência Artificial  
+- 🎓 **Jovem desenvolvedor** apaixonado por tecnologia e inovação  
+- 💼 **Engenheiro de Software** focado em soluções eficientes e escaláveis  
+- 🤖 **Engenheiro de Prompt** e estudante de Inteligência Artificial aplicada  
 - 🛠️ **Desenvolvedor de Ferramentas** para automação, IoT e sistemas embarcados  
 - 💻 **Programador** em C/C++, Java, C#, Python — atualmente explorando Kotlin  
 - 🌐 **Desenvolvedor de IoT** e aplicações para dispositivos embarcados  
@@ -28,15 +29,15 @@
 </p>
 
 **AetherWay**  
-> Em conjunto com um time de colegas dedicados, criamos soluções open-source e ferramentas de ponta para desenvolvedores.
+> Faço parte do time AetherWay, onde desenvolvemos ferramentas open-source e soluções técnicas para a comunidade de desenvolvedores.
 
 ---
 
 ## 🚀 Destaque
 
 **Trackie** — Assistente Visual Inteligente  
-> Uma alternativa mais acessível e repleta de funcionalidades ao OrCam MyEye.  
-> Combina visão computacional, IA em tempo real e hardware embarcado para entregar uma experiência prática, eficaz e econômica.
+> Criador do **Trackie**, uma alternativa acessível, com mais funcionalidades e custo reduzido em comparação ao OrCam MyEye.  
+> Foco em acessibilidade, visão computacional em tempo real e integração com dispositivos embarcados.
 
 ---
 
@@ -56,9 +57,9 @@
 ## 📫 Contato
 
 - 📧 pedro.henrique@exemplo.com  
-- 📱 Disponível no LinkedIn  
-- 💬 Aberto a novas parcerias, colaborações e desafios técnicos  
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/pedro-henrique-garcia-58b147371/)  
+- 💬 Aberto a parcerias, colaborações e novos desafios técnicos  
 
 ---
 
-> “Busco traduzir ideias complexas em soluções práticas, sempre com um olhar jovem e inovador.”
+> _"Busco transformar ideias complexas em soluções práticas, o impossivel pra mim só se torna impossivel a partir do momento que eu não coneguir."_
