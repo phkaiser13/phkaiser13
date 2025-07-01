@@ -20,16 +20,16 @@
 ## Projetos & Times
 
 <p align="center">
-  <a href="https://github.com/AetherOpen" target="_blank">
-    <img src="https://img.shields.io/badge/Team-AetherWay-6610f2?style=for-the-badge&logo=github&logoColor=white" alt="AetherWay"/>
+  <a href="https://github.com/Vytruve" target="_blank">
+    <img src="https://img.shields.io/badge/Team-Vytruve-6610f2?style=for-the-badge&logo=github&logoColor=white" alt="Vytruve"/>
   </a>
   <a href="https://www.linkedin.com/in/pedro-henrique-garcia-58b147371/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro--Henrique-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-**AetherWay**  
-> Faço parte do time AetherWay, onde desenvolvemos ferramentas open-source e soluções técnicas para a comunidade de desenvolvedores.
+**Vytruve**  
+> Fundador da Vytruve. Equipe de desenvolvimento de Softwares, Embarcados, Desenvolvimento e Treinamento de AI & Sistemas com AI. 
 
 ---
 
