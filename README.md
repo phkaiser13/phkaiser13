@@ -1,74 +1,139 @@
-
-<h1 align="center">👋 Olá! Hello! ¡Hola! こんにちは！Salut!</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedro-henrique-garcia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
----
-
-## Sobre mim
-
-- 🎓 **Jovem desenvolvedor** apaixonado por tecnologia e inovação  
-- 💼 **Engenheiro de Software** focado em soluções eficientes e escaláveis  
-- 🤖 **Engenheiro de Prompt** e estudante de Inteligência Artificial aplicada  
-- 🛠️ **Desenvolvedor de Ferramentas** para automação, IoT e sistemas embarcados  
-- 💻 **Programador** em C/C++, Java, C#, Python — atualmente explorando Kotlin  
-- 🌐 **Desenvolvedor de IoT** e aplicações para dispositivos embarcados  
+<div align="center">
+  <img src="https://img.icons8.com/color/96/waving-hand.png" width="80"/>
+  <h1><b>Olá! Hello! ¡Hola! こんにちは！Salut!</b></h1>
+  <p>Bem-vindo ao meu universo de códigos, circuitos e inovação!</p>
+  <img src="https://komarev.com/ghpvc/?username=pedro-henrique-garcia&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</div>
 
 ---
 
-## Projetos & Times
+## 👨‍💻 Sobre Mim
 
-<p align="center">
+Sou um **Engenheiro de Software e Desenvolvedor de Sistemas Embarcados** apaixonado por transformar ideias complexas em soluções práticas e inovadoras. Com um forte foco em **Inteligência Artificial**, busco constantemente desafios que me permitam aprender e crescer.
+
+- 🚀 **Engenheiro de Prompt & IA:** Especializado em treinar e aplicar modelos de IA em cenários do mundo real.
+- 🛠️ **Arquiteto de Soluções:** Desenvolvo software escalável e eficiente, desde o firmware de baixo nível até aplicações de alto nível.
+- 🤖 **Criador de Ferramentas:** Construo automações e sistemas para IoT que conectam o físico ao digital.
+- 🌐 **Poliglota:** Fluente em múltiplas linguagens, tanto humanas quanto de programação.
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/brazil-circular.png" alt="Português"/>
+  <img src="https://img.icons8.com/color/48/usa-circular.png" alt="English"/>
+  <img src="https://img.icons8.com/color/48/spain-circular.png" alt="Español"/>
+  <img src="https://img.icons8.com/color/48/japan-circular.png" alt="日本語"/>
+  <img src="https://img.icons8.com/color/48/france-circular.png" alt="Français"/>
+</div>
+
+---
+
+## 🛠️ Meu Arsenal Tecnológico
+
+Minha caixa de ferramentas está sempre evoluindo. Estas são as tecnologias com as quais mais trabalho atualmente:
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+      <br><strong>C/C++</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
+      <br><strong>C#</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
+      <br><strong>Kotlin</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/rust-programming-language.png" alt="Rust"/>
+      <br><strong>Rust</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/fluency/48/microchip.png" alt="Assembly"/>
+      <br><strong>Assembly</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/bash.png" alt="Bash"/>
+      <br><strong>Bash</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/qt.png" alt="Qt"/>
+      <br><strong>Qt</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/fluency/48/iot-sensor.png" alt="IoT"/>
+      <br><strong>IoT</strong>
+    </td>
+     <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux"/>
+      <br><strong>Linux</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/>
+      <br><strong>Arduino</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/raspberry-pi.png" alt="Raspberry Pi"/>
+      <br><strong>Raspberry Pi</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  <h3><b>Trackie — Assistente Visual Inteligente</b></h3>
+  <p>
+    Criador do <b>Trackie</b>, uma alternativa acessível e poderosa ao OrCam MyEye, focada em democratizar a tecnologia assistiva. O projeto combina visão computacional em tempo real, IA embarcada e design de baixo custo para entregar funcionalidades avançadas de auxílio a deficientes visuais.
+  </p>
+</div>
+
+---
+
+## 🏢 Equipes & Colaborações
+
+<div align="center">
   <a href="https://github.com/Vytruve" target="_blank">
     <img src="https://img.shields.io/badge/Team-Vytruve-6610f2?style=for-the-badge&logo=github&logoColor=white" alt="Vytruve"/>
   </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-garcia-58b147371/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro--Henrique-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <p>
+    Fundador da <b>Vytruve</b>, uma equipe dedicada ao desenvolvimento de software, sistemas embarcados e treinamento de IAs de alta performance.
+  </p>
+</div>
+
+---
+
+## 📫 Vamos nos Conectar!
+
+Estou sempre aberto a novas parcerias, colaborações e desafios técnicos. Vamos conversar!
+
+<div align="center">
+  <a href="mailto:phgarcia2008@icloud.com">
+    <img src="https://img.icons8.com/fluency/48/mail.png" alt="Email"/>
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/pedro-henrique-garcia-58b147371/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+</div>
 
-**Vytruve**  
-> Fundador da Vytruve. Equipe de desenvolvimento de Softwares, Embarcados, Desenvolvimento e Treinamento de AI & Sistemas com AI. 
+<br>
 
----
-
-## 🚀 Destaque
-
-**Trackie** — Assistente Visual Inteligente  
-> Criador do **Trackie**, uma alternativa acessível, com mais funcionalidades e custo reduzido em comparação ao OrCam MyEye.  
-> Foco em acessibilidade, visão computacional em tempo real e integração com dispositivos embarcados.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=verilog&logoColor=white" alt="Assembly"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Framework"/>
-  <img src="https://img.shields.io/badge/IoT-FD8F00?style=for-the-badge&logo=iot&logoColor=white" alt="IoT"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-
----
-
-## 📫 Contato
-
-- 📧 phgarcia2008@icloud.com    
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/pedro-henrique-garcia-58b147371/)  
-- 💬 Aberto a parcerias, colaborações e novos desafios técnicos  
-
----
-
-> _"Busco transformar ideias complexas em soluções práticas, o impossivel pra mim só se torna impossivel a partir do momento que eu não coneguir."_
+> _"Busco transformar ideias complexas em soluções práticas. O impossível para mim só se torna impossível a partir do momento que eu não conseguir."_
