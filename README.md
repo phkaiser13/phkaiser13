@@ -20,8 +20,6 @@ Sou um **Engenheiro de Software e Desenvolvedor de Sistemas Embarcados** apaixon
   <img src="https://img.icons8.com/color/48/brazil-circular.png" alt="Português"/>
   <img src="https://img.icons8.com/color/48/usa-circular.png" alt="English"/>
   <img src="https://img.icons8.com/color/48/spain-circular.png" alt="Español"/>
-  <img src="https://img.icons8.com/color/48/japan-circular.png" alt="日本語"/>
-  <img src="https://img.icons8.com/color/48/france-circular.png" alt="Français"/>
 </div>
 
 ---
