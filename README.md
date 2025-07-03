@@ -37,7 +37,16 @@ Minha caixa de ferramentas está sempre evoluindo. Estas são as tecnologias com
 <div align="center">
   <h3><b>Trackie — Assistente Visual Inteligente</b></h3>
   <p>
-    Criador do <b>Trackie</b>, uma alternativa acessível e poderosa ao OrCam MyEye, focada em democratizar a tecnologia assistiva. O projeto combina visão computacional em tempo real, IA embarcada e design de baixo custo para entregar funcionalidades avançadas de auxílio a deficientes visuais.
+    Criador do <b>Trackie</b>, uma alternativa acessível e poderosa ao OrCam MyEye, focada em democratizar a tecnologia assistiva. O projeto combina visão computacional em tempo real, IA embarcada e design de baixo custo para entregar funcionalidades avançadas de auxílio a deficientes visuais. É um projeto que envolve arquitetura, kernel, LLm, e promete entregar uma versão extremamente mais inteligente que o OrCam MyEye, com muitas funcionalidades extras e conexões, custando cerca de 10 vezes menos.
+  </p>
+</div>
+
+<div align="center">
+  <h3><b>VersEia, Loria & Storia — Softwares Empresariais complexos, De extremo Desempenho e Segurança</b></h3>
+  <p>
+    Desenvolvedor Da<b>Vytruve - TruveSoftware</b>, Softwares avançados de facil entendimento, Ultralight e seguros. São desenvolvidos em C/C++ & Apple swift. 
+
+    
   </p>
 </div>
 
