@@ -44,10 +44,10 @@ Minha caixa de ferramentas está sempre evoluindo. Estas são as tecnologias com
 ```
 Desenvolvido com foco em arquitetura de sistema, kernel customizado e LLMs integradas, o Trackie oferece uma experiência significativamente mais inteligente que soluções concorrentes — com diversas funcionalidades extras e integração a múltiplas APIs e sensores.  
 E o melhor: por um custo até <b>10 vezes menor</b>.
-
+```
 🔗 <a href="https://vytruve.org/vy-ai/" target="_blank">Saiba mais</a>
 ```
-
+```
   </p>
 </div>
 
@@ -61,7 +61,7 @@ Construídos em <b>C/C++</b> e <b>Swift</b>, adotam uma <b>arquitetura modular p
 A tecnologia de <b>Facilitação de Compreensão</b> torna até as soluções mais robustas fáceis de operar, reduzindo a curva de aprendizado e os erros operacionais.
 
 Os sistemas contam com <b>segurança corporativa</b>, <b>infraestrutura ultraleve</b> e interfaces modernas e eficientes.
-
+```
 🔗 <a href="https://vytruve.org/truve-software/" target="_blank">Saiba mais</a>
 ```
 
