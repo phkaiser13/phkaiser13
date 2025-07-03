@@ -31,44 +31,31 @@ Minha caixa de ferramentas está sempre evoluindo. Estas são as tecnologias com
 <table align="center"> <tr> <td align="center"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/><br><strong>C/C++</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/><br><strong>Java</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/c-sharp-logo.png"/><br><strong>C#</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/kotlin.png"/><br><strong>Kotlin</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/swift.png"/><br><strong>Swift</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/objective-c.png"/><br><strong>Objective‑C</strong></td> </tr> <tr> <td align="center"><img src="https://img.icons8.com/color/48/python--v1.png"/><br><strong>Python (PyTorch)</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/linux--v1.png"/><br><strong>Linux</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/assembly.png"/><br><strong>Assembly</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/bash.png"/><br><strong>Bash</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/rust-programming-language.png"/><br><strong>Rust</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/webassembly.png"/><br><strong>WebAssembly</strong></td> </tr> <tr> <td align="center"><img src="https://img.icons8.com/fluency/48/microchip.png"/><br><strong>IoT</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/raspberry-pi.png"/><br><strong>Raspberry Pi</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/orange-pi.png"/><br><strong>Orange Pi</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/esp32.png"/><br><strong>ESP32</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/arduino.png"/><br><strong>Arduino</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/qt.png"/><br><strong>Qt</strong></td> </tr> </table>
 
 
----
-
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-  <h3><b>Trackie — Assistente Visual Inteligente</b></h3>
-  <p>
-    Criado por <b>Vytruve</b>, o <b>Trackie</b> é uma alternativa acessível e poderosa ao OrCam MyEye, projetada para democratizar o acesso à tecnologia assistiva.  
-    O sistema combina <b>visão computacional em tempo real</b>, <b>IA embarcada</b> e <b>design de baixo custo</b>, entregando funcionalidades avançadas para auxílio de pessoas com deficiência visual.
+### 🦾 Trackie — Assistente Visual Inteligente
 
-```
-Desenvolvido com foco em arquitetura de sistema, kernel customizado e LLMs integradas, o Trackie oferece uma experiência significativamente mais inteligente que soluções concorrentes — com diversas funcionalidades extras e integração a múltiplas APIs e sensores.  
-E o melhor: por um custo até <b>10 vezes menor</b>.
-```
-🔗 <a href="https://vytruve.org/vy-ai/" target="_blank">Saiba mais</a>
-```
-```
-  </p>
-</div>
+Criado por **Vytruve**, o **Trackie** é uma alternativa acessível e poderosa ao OrCam MyEye, projetada para democratizar o acesso à tecnologia assistiva.  
+O sistema combina **visão computacional em tempo real**, **IA embarcada** e **design de baixo custo**, entregando funcionalidades avançadas para auxílio de pessoas com deficiência visual.
 
-<div align="center">
-  <h3><b>VersEia, Loria & Storia — Softwares Empresariais de Alta Performance</b></h3>
-  <p>
-    Criados pela <b>Vytruve — TruveSoftware</b>, esses sistemas atendem áreas como ERP, RH e Estoque, com foco em escalabilidade, segurança e simplicidade de uso.
+Desenvolvido com foco em arquitetura de sistema, kernel customizado e LLMs integradas, o Trackie oferece uma experiência significativamente mais inteligente que soluções concorrentes.  
+**E o melhor:** por um custo até **10 vezes menor**.
 
-```
-Construídos em <b>C/C++</b> e <b>Swift</b>, adotam uma <b>arquitetura modular proprietária</b> que favorece manutenibilidade, rastreabilidade e evolução contínua.  
-A tecnologia de <b>Facilitação de Compreensão</b> torna até as soluções mais robustas fáceis de operar, reduzindo a curva de aprendizado e os erros operacionais.
-
-Os sistemas contam com <b>segurança corporativa</b>, <b>infraestrutura ultraleve</b> e interfaces modernas e eficientes.
-```
-🔗 <a href="https://vytruve.org/truve-software/" target="_blank">Saiba mais</a>
-```
-
-  </p>
-</div>
+🔗 [Saiba mais](https://vytruve.org/vy-ai/)
 
 ---
+
+### 🧠 VersEia, Loria & Storia — Softwares Empresariais de Alta Performance
+
+Criados pela **Vytruve — TruveSoftware**, esses sistemas atendem áreas como ERP, RH e Estoque, com foco em escalabilidade, segurança e simplicidade de uso.
+
+Construídos em **C/C++** e **Swift**, adotam uma **arquitetura modular proprietária** que favorece manutenibilidade, rastreabilidade e evolução contínua.  
+A tecnologia de **Facilitação de Compreensão** torna até as soluções mais robustas fáceis de operar, reduzindo a curva de aprendizado.
+
+Os sistemas contam com **segurança corporativa**, **infraestrutura ultraleve** e interfaces modernas e eficientes.
+
+🔗 [Saiba mais](https://vytruve.org/truve-software/)
+
 
 
 ## 🏢 Equipes & Colaborações
