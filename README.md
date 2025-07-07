@@ -32,30 +32,44 @@ Minha caixa de ferramentas está sempre evoluindo. Estas são as tecnologias com
 <table align="center"> <tr> <td align="center"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/><br><strong>C/C++</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/><br><strong>Java</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/c-sharp-logo.png"/><br><strong>C#</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/kotlin.png"/><br><strong>Kotlin</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/swift.png"/><br><strong>Swift</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/objective-c.png"/><br><strong>Objective‑C</strong></td> </tr> <tr> <td align="center"><img src="https://img.icons8.com/color/48/python--v1.png"/><br><strong>Python (PyTorch)</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/linux--v1.png"/><br><strong>Linux</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/assembly.png"/><br><strong>Assembly</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/bash.png"/><br><strong>Bash</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/rust-programming-language.png"/><br><strong>Rust</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/webassembly.png"/><br><strong>WebAssembly</strong></td> </tr> <tr> <td align="center"><img src="https://img.icons8.com/fluency/48/microchip.png"/><br><strong>IoT</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/raspberry-pi.png"/><br><strong>Raspberry Pi</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/orange-pi.png"/><br><strong>Orange Pi</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/esp32.png"/><br><strong>ESP32</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/arduino.png"/><br><strong>Arduino</strong></td> <td align="center"><img src="https://img.icons8.com/color/48/qt.png"/><br><strong>Qt</strong></td> </tr> </table>
 
 
-## 🚀 Projetos em Destaque
+<div style="font-family: sans-serif; color: #c9d1d9; background-color: #0d1117; padding: 20px; border-radius: 6px;">
 
-### 🦾 Trackie — Assistente Visual Inteligente
+  <h2 style="border-bottom: 1px solid #30363d; padding-bottom: 8px;">
+    🚀 Projetos em Destaque
+  </h2>
 
-Criado por **Vytruve**, o **Trackie** é uma alternativa acessível e poderosa ao OrCam MyEye, projetada para democratizar o acesso à tecnologia assistiva.  
-O sistema combina **visão computacional em tempo real**, **IA embarcada** e **design de baixo custo**, entregando funcionalidades avançadas para auxílio de pessoas com deficiência visual.
+  <!-- Projeto Trackie -->
+  <div style="margin-top: 24px;">
+    <h3 style="font-size: 1.25em;">🦾 Trackie — Assistente Visual Inteligente</h3>
+    <p style="color: #8b949e;">
+      Criado por <strong>Vytruve</strong>, o <strong>Trackie</strong> é uma alternativa acessível e poderosa ao OrCam MyEye, projetada para democratizar o acesso à tecnologia assistiva.
+      O sistema combina <strong>visão computacional em tempo real</strong>, <strong>IA embarcada</strong> e <strong>design de baixo custo</strong>, entregando funcionalidades avançadas para auxílio de pessoas com deficiência visual.
+    </p>
+    <p style="color: #8b949e;">
+      Desenvolvido com foco em arquitetura de sistema, kernel customizado e LLMs integradas, o Trackie oferece uma experiência significativamente mais inteligente que soluções concorrentes.
+      <strong>E o melhor:</strong> por um custo até <strong>10 vezes menor</strong>.
+    </p>
+    <a href="https://vytruve.org/vy-ai/" target="_blank" rel="noopener noreferrer" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🔗 Saiba mais</a>
+  </div>
 
-Desenvolvido com foco em arquitetura de sistema, kernel customizado e LLMs integradas, o Trackie oferece uma experiência significativamente mais inteligente que soluções concorrentes.  
-**E o melhor:** por um custo até **10 vezes menor**.
+  <hr style="height: 1px; background-color: #21262d; border: none; margin: 24px 0;">
 
-🔗 [Saiba mais](https://vytruve.org/vy-ai/)
+  <!-- Projeto Softwares Empresariais -->
+  <div style="margin-top: 24px;">
+    <h3 style="font-size: 1.25em;">🧠 VersEia, Loria & Storia — Softwares Empresariais de Alta Performance</h3>
+    <p style="color: #8b949e;">
+      Criados pela <strong>Vytruve — TruveSoftware</strong>, esses sistemas atendem áreas como ERP, RH e Estoque, com foco em escalabilidade, segurança e simplicidade de uso.
+    </p>
+    <p style="color: #8b949e;">
+      Construídos em <strong>C/C++</strong>, <strong>Objective-c</strong>, <strong>C#</strong> & <strong>Swift</strong>, adotam uma <strong>arquitetura modular proprietária</strong> que favorece manutenibilidade, rastreabilidade e evolução contínua. A tecnologia de <strong>Facilitação de Compreensão</strong> torna até as soluções mais robustas fáceis de operar, reduzindo a curva de aprendizado. Esses sistemas vieram como forma de inovação, Criando sistemas ultra otimizados, mas com extremas informações, mas mesmo assim sem ter problemas na manutenção e uso das linguagens com controles de baixo nivel.
+    </p>
+    <p style="color: #8b949e;">
+      Os sistemas contam com <strong>segurança corporativa</strong>, <strong>infraestrutura ultraleve</strong> e interfaces modernas e eficientes.
+    </p>
+    <a href="https://vytruve.org/truve-software/" target="_blank" rel="noopener noreferrer" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🔗 Saiba mais</a>
+  </div>
 
----
-
-### 🧠 VersEia, Loria & Storia — Softwares Empresariais de Alta Performance
-
-Criados pela **Vytruve — TruveSoftware**, esses sistemas atendem áreas como ERP, RH e Estoque, com foco em escalabilidade, segurança e simplicidade de uso.
-
-Construídos em **C/C++** e **Swift**, adotam uma **arquitetura modular proprietária** que favorece manutenibilidade, rastreabilidade e evolução contínua.  
-A tecnologia de **Facilitação de Compreensão** torna até as soluções mais robustas fáceis de operar, reduzindo a curva de aprendizado.
-
-Os sistemas contam com **segurança corporativa**, **infraestrutura ultraleve** e interfaces modernas e eficientes.
-
-🔗 [Saiba mais](https://vytruve.org/truve-software/)
+</div>
 
 
 
@@ -66,7 +80,8 @@ Os sistemas contam com **segurança corporativa**, **infraestrutura ultraleve** 
     <img src="https://img.shields.io/badge/Team-Vytruve-6610f2?style=for-the-badge&logo=github&logoColor=white" alt="Vytruve"/>
   </a>
   <p>
-    Fundador da <b>Vytruve</b>, uma equipe dedicada ao desenvolvimento de software, sistemas embarcados e treinamento de IAs de alta performance.
+    Fundador da <b>Vytruve Org</b>, uma equipe dedicada ao desenvolvimento de software, sistemas embarcados e treinamento de IAs de alta performance.
+    Nossas divisões são a <b>TruveSoftware</b>, <b>vyAI</b> & <b>Vyst (Studio)</b>
   </p>
 </div>
 
