@@ -38,7 +38,7 @@ Minha caixa de ferramentas está sempre evoluindo. Estas são as tecnologias com
   <div style="display:inline-block; background:#fff; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.1); padding:24px; margin:12px; max-width:600px; text-align:left;">
     <div style="display:flex; align-items:center; margin-bottom:16px;">
       <img src="https://img.icons8.com/fluency/48/000000/eye.png" alt="Trackie" style="margin-right:12px;"/>
-      <h2 style="margin:0; color:#2f80ed;">Trackie — Assistente Visual Inteligente</h2>
+      <h2 style="margin:0; color:#2f80ed;">Trackie — Assistente Visual Inteligente - By vyAi</h2>
     </div>
     <p style="line-height:1.5; color:#333;">
       Criado por <strong>Vytruve</strong>, o <strong>Trackie</strong> é uma alternativa acessível e poderosa ao OrCam MyEye, democratizando a tecnologia assistiva.
@@ -59,7 +59,7 @@ Minha caixa de ferramentas está sempre evoluindo. Estas são as tecnologias com
   <div style="display:inline-block; background:#fff; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.1); padding:24px; margin:12px; max-width:600px; text-align:left;">
     <div style="display:flex; align-items:center; margin-bottom:16px;">
       <img src="https://img.icons8.com/fluency/48/000000/computer.png" alt="VersEia" style="margin-right:12px;"/>
-      <h2 style="margin:0; color:#f2994a;">VersEia, Loria &amp; Storia</h2>
+      <h2 style="margin:0; color:#f2994a;">VersEia, Loria &amp; Storia - By Truvesoftware</h2>
     </div>
     <p style="line-height:1.5; color:#333;">
       Desenvolvidos pela <strong>Vytruve — TruveSoftware</strong>, estes ERPs atendem ERP, RH e Estoque com foco em <strong>escalabilidade</strong>, <strong>segurança</strong> e <strong>simplicidade</strong>.
