@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF¢er=true&vCenter=true&width=435&lines=Ol%C3%A1!+Hello!+%C2%A1Hola!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81;Bem-vindo(a)+ao+meu+perfil!;Sou+Engenheiro+de+Software;Especialista+em+Sistemas+Embarcados;E+apaixonado+por+Intelig%C3%AAncia+Artificial!" alt="Typing SVG" /></a>
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/external-innovation-creativity-flaticons-flat-flat-icons.png" width="100" alt="Inovação"/>
   <p><strong>Transformando ideias complexas em soluções práticas e inovadoras no universo da tecnologia.</strong></p>
-  <img src="https://komarev.com/ghpvc/?username=pedro-henrique-garcia&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=phkaiser13&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </div>
 
 <!-- 
@@ -64,9 +64,9 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <a href="https://github.com/pedro-henrique-garcia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-garcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-garcia&layout=compact&langs_count=8&theme=tokyonight"/>
+  <a href="https://github.com/phkaiser13">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phkaiser13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </div>
 
@@ -197,7 +197,7 @@
   <a href="mailto:phgarcia2008@icloud.com">
     <img src="https://img.shields.io/badge/iCloud_Mail-000?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-garcia-58b147371/">
+  <a href="https://www.linkedin.com/in/phkaiser13-58b147371/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
