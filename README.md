@@ -10,6 +10,7 @@
 ## 👨‍💻 Sobre Mim
 
 Sou um **Engenheiro de Software e Desenvolvedor de Sistemas Embarcados** apaixonado por transformar ideias complexas em soluções práticas e inovadoras. Com um forte foco em **Inteligência Artificial**, busco constantemente desafios que me permitam aprender e crescer.
+  Quer colaborar? Discord> **phkaiser13**
 
 - 🚀 **Engenheiro de Prompt & IA:** Especializado em treinar e aplicar modelos de IA em cenários do mundo real.
 - 🛠️ **Arquiteto de Soluções:** Desenvolvo software escalável e eficiente, desde o firmware de baixo nível até aplicações de alto nível.
