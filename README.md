@@ -210,8 +210,9 @@
 ================================================================================================================================================================
 -->
 <div align="center">
-  <img src="https://github.com/phkaiser13/phkaiser13/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/output/github-contribution-grid-snake.gif" alt="snake gif">
 </div>
+
 
 <p align="center">
   <br>
