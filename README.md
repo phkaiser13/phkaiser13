@@ -61,45 +61,38 @@
                             GITHUB STATS
 ====================================================================
 -->
-## 📊 Minhas Estatísticas no GitHub
+<div style="text-align: center;">
 
-<p align="center">
   <!-- Estatísticas gerais -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=phkaiser13
-         &show_icons=true
-         &theme=tokyonight
-         &include_all_commits=true
-         &count_private=true"
-    alt="GitHub Stats" 
-    width="48%" 
-  />
+  <div style="display: inline-block; margin: 0 1%;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=phkaiser13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+      style="height: 180px;"
+    />
+  </div>
 
   <!-- Top 8 linguagens mais usadas -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13
-         &layout=compact
-         &langs_count=8
-         &theme=tokyonight"
-    alt="Top Languages" 
-    width="48%" 
-  />
-</p>
+  <div style="display: inline-block; margin: 0 1%;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=8&theme=tokyonight"
+      alt="Top Languages"
+      style="height: 180px;"
+    />
+  </div>
 
----
+</div>
 
-## 💻 Todas as Linguagens que Uso
+<hr/>
 
-<div align="center">
-  <!-- Lista completa de linguagens (até 100!) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13
-         &layout=compact
-         &langs_count=100
-         &theme=tokyonight"
-    alt="All Languages" 
+<!-- Todas as Linguagens -->
+<div style="text-align: center; margin-top: 1em;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=100&theme=tokyonight"
+    alt="All Languages"
   />
 </div>
+
 
 
 <!-- 
