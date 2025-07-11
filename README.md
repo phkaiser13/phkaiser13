@@ -56,68 +56,19 @@
 
 <br>
 
-<!-- GITHUB STATS + TOP LANGS + ALL LANGS juntos -->
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
-  padding: 1rem;
-">
+<!-- 
+================================================================================================================================================================
+                                                                    GITHUB STATS
+================================================================================================================================================================
+-->
+## 📊 Minhas Estatísticas no GitHub
 
-  <!-- Card 1: Estatísticas Gerais -->
-  <div style="
-    flex: 0 1 300px;
-    background: #0d1117;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 0.5rem;
-    text-align: center;
-  ">
-    <h4 style="color: #58a6ff; margin: 0.5rem 0;">📈 Stats</h4>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=phkaiser13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-      alt="GitHub Stats"
-      style="width: 100%; height: 140px; object-fit: cover; border-radius: 4px;"
-    />
-  </div>
-
-  <!-- Card 2: Top 8 Linguagens -->
-  <div style="
-    flex: 0 1 300px;
-    background: #0d1117;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 0.5rem;
-    text-align: center;
-  ">
-    <h4 style="color: #58a6ff; margin: 0.5rem 0;">💻 Top 8</h4>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=8&theme=tokyonight"
-      alt="Top Languages"
-      style="width: 100%; height: 140px; object-fit: cover; border-radius: 4px;"
-    />
-  </div>
-
-  <!-- Card 3: Todas as Linguagens -->
-  <div style="
-    flex: 0 1 300px;
-    background: #0d1117;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 0.5rem;
-    text-align: center;
-  ">
-    <h4 style="color: #58a6ff; margin: 0.5rem 0;">🛠 Todas</h4>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=100&theme=tokyonight"
-      alt="All Languages"
-      style="width: 100%; height: 140px; object-fit: cover; border-radius: 4px;"
-    />
-  </div>
-
+<div align="center">
+  <a href="https://github.com/phkaiser13">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phkaiser13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </div>
-
 
 
 
