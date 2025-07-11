@@ -61,37 +61,72 @@
                             GITHUB STATS
 ====================================================================
 -->
-<div style="text-align: center;">
-
-  <!-- Estatísticas gerais -->
-  <div style="display: inline-block; margin: 0 1%;">
+<!-- Container flex para os dois cards principais -->
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem;
+">
+  <!-- Card de Estatísticas Gerais -->
+  <div style="
+    flex: 1 1 300px;
+    max-width: 400px;
+    background: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 12px;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  ">
+    <h3 style="color: #58a6ff; margin-bottom: 0.75rem;">📈 GitHub Stats</h3>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=phkaiser13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=phkaiser13&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true"
       alt="GitHub Stats"
-      style="height: 180px;"
+      style="width: 100%; height: auto; border-radius: 8px;"
     />
   </div>
 
-  <!-- Top 8 linguagens mais usadas -->
-  <div style="display: inline-block; margin: 0 1%;">
+  <!-- Card de Top 8 Linguagens -->
+  <div style="
+    flex: 1 1 300px;
+    max-width: 400px;
+    background: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 12px;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  ">
+    <h3 style="color: #58a6ff; margin-bottom: 0.75rem;">💻 Top 8 Linguagens</h3>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=8&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight"
       alt="Top Languages"
-      style="height: 180px;"
+      style="width: 100%; height: auto; border-radius: 8px;"
     />
   </div>
-
 </div>
 
-<hr/>
-
-<!-- Todas as Linguagens -->
-<div style="text-align: center; margin-top: 1em;">
+<!-- Card único para todas as linguagens -->
+<div style="
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #0d1117;
+  border: 1px solid #30363d;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+">
+  <h3 style="color: #58a6ff; margin-bottom: 0.75rem;">🛠 Todas as Linguagens</h3>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=100&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&amp;layout=compact&amp;langs_count=100&amp;theme=tokyonight"
     alt="All Languages"
+    style="width: 100%; height: auto; border-radius: 8px;"
   />
 </div>
+
 
 
 
