@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF¢er=true&vCenter=true&width=435&lines=Ol%C3%A1!+Hello!+%C2%A1Hola!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81;Bem-vindo(a)+ao+meu+perfil!;Sou+Engenheiro+de+Software;Especialista+em+Sistemas+Embarcados;E+apaixonado+por+Intelig%C3%AAncia+Artificial!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF¢er=true&vCenter=true&width=435&lines=Ol%C3%A1!+Hello!+%C2%A1Hola!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81;Welcome+To+My+Hub!;Software+Engineer;Embedded+System+Dev;LLM+&+AI+Dev" alt="Typing SVG" /></a>
   <img src="https://img.icons8.com/?size=100&id=wgS2PD7IqfFL&format=png&color=000000" width="100" alt="Inovação"/>
   <p><strong>Transformando ideias complexas em soluções práticas e inovadoras no universo da tecnologia.</strong></p>
   <img src="https://komarev.com/ghpvc/?username=phkaiser13&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views"/>
