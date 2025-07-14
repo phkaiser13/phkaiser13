@@ -199,7 +199,7 @@
   <a href="mailto:phgarcia2008@icloud.com">
     <img src="https://img.shields.io/badge/iCloud_Mail-000?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/phkaiser13-58b147371/">
+  <a href="https://www.linkedin.com/in/phgarcia13">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
