@@ -1,167 +1,221 @@
-<!-- 
+<!--
 ================================================================================================================================================================
-                                                             BEM-VINDO AO MEU UNIVERSO! 
+                                                       🌌 BEM-VINDO AO MEU UNIVERSO DIGITAL 🌌
 ================================================================================================================================================================
 -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF¢er=true&vCenter=true&width=435&lines=Ol%C3%A1!+Hello!+%C2%A1Hola!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81;Welcome+To+My+Hub!;Software+Engineer+Developer;Embedded+System+Dev;LLM+And+AI+Dev" alt="Typing SVG" /></a>
-  <img src="https://img.icons8.com/?size=100&id=wgS2PD7IqfFL&format=png&color=000000" width="100" alt="Inovação"/>
-  <p><strong>Transformando ideias complexas em soluções práticas e inovadoras no universo da tecnologia.</strong></p>
-  <img src="https://komarev.com/ghpvc/?username=phkaiser13&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=BD93F9¢er=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+viajante+do+ciberespa%C3%A7o!++%F0%9F%91%8B;Eu+sou+Pedro+Henrique+Garcia;Engenheiro+de+Software+%26+Sistemas+Embarcados;Especialista+em+Intelig%C3%AAncia+Artificial+e+LLMs" alt="Typing SVG" />
+  <p align="center">
+    <strong>Criando pontes entre o silício e a inteligência, onde cada linha de código é um passo em direção ao futuro.</strong>
+  </p>
 </div>
 
 <!-- 
 ================================================================================================================================================================
-                                          .                       SEPARADOR ANIMADO
+                                                               . ✨ SEPARADOR CÓSMICO ✨ .
 ================================================================================================================================================================
 -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-<!-- 
-================================================================================================================================================================
-                                                                      SOBRE MIM
-================================================================================================================================================================
--->
-## 👨‍💻 Sobre Mim | About Me
-
-<p align="left"> 
-  Sou <strong>Pedro Henrique Garcia</strong>, um <strong>Engenheiro de Software e Desenvolvedor de Sistemas Embarcados</strong> com um foco profundo em <strong>Inteligência Artificial</strong>. Minha paixão é construir pontes entre o mundo físico e o digital, criando ferramentas que não apenas funcionam, mas que também resolvem problemas reais de forma inteligente e eficiente.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/line.svg" width="100%" alt="Linha Divisória Animada">
 </p>
 
-- 🚀 **Engenheiro de Prompt & IA:** Especializado em treinar, otimizar e aplicar modelos de IA (especialmente LLMs) em cenários do mundo real, criando interações mais naturais e eficientes.
+<!-- 
+================================================================================================================================================================
+                                                                    SOBRE MIM
+================================================================================================================================================================
+-->
+<div align="center">
+  <h2 style="font-size: 24px; border-bottom: 2px solid #BD93F9; padding-bottom: 5px; display: inline-block; color: #F8F8F2; text-shadow: 0 0 5px #BD93F9;">
+    <img src="https://img.icons8.com/fluency/48/user-male-circle--v1.png" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+    Sobre Mim | About Me
+  </h2>
+</div>
 
-- 🛠️ **Arquiteto de Soluções:** Desenvolvo software escalável e robusto, desde o firmware de baixo nível em microcontroladores até aplicações complexas de alto nível.
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <p align="left"> 
+        Sou <strong>Pedro Henrique Garcia</strong>, um <strong>Engenheiro de Software e Desenvolvedor de Sistemas Embarcados</strong> com uma paixão avassaladora por <strong>Inteligência Artificial</strong>. Minha missão é traduzir as complexas sinfonias da teoria em soluções práticas e elegantes, construindo ferramentas que não apenas funcionam, mas que pensam e resolvem problemas de forma autônoma e eficiente.
+      </p>
 
-- 🤖 **Criador de Ferramentas & IoT:** Construo automações e sistemas para a Internet das Coisas (IoT) que são a espinha dorsal de produtos inovadores e conectados.
+      <ul>
+        <li><img src="https://skillicons.dev/icons?i=prompt" width="16" /> <strong>Engenheiro de Prompt & IA:</strong> Mestre em orquestrar e otimizar Modelos de Linguagem Grandes (LLMs) para interações mais humanas e resultados surpreendentes.</li>
+        <li><img src="https://skillicons.dev/icons?i=wasm" width="16" /> <strong>Arquiteto de Soluções:</strong> Da fundação do firmware em microcontroladores ao ápice das aplicações de software, construo sistemas robustos e escaláveis.</li>
+        <li><img src="https://skillicons.dev/icons?i=raspberrypi" width="16" /> <strong>Criador de Ferramentas & IoT:</strong> Materializo a Internet das Coisas com automações e sistemas conectados que são a alma de produtos inovadores.</li>
+        <li><img src="https://img.icons8.com/office/16/translation.png" width="16" /> <strong>Poliglota Comunicador:</strong> A fluência em múltiplas linguagens de programação e humanas me permite navegar e conectar em qualquer ecossistema tecnológico.</li>
+      </ul>
+       <p align="center">
+        <img src="https://img.icons8.com/color/48/brazil-circular.png" alt="Português Nativo"/>
+        <img src="https://img.icons8.com/color/48/usa-circular.png" alt="English Fluent"/>
+        <img src="https://img.icons8.com/color/48/spain-circular.png" alt="Español Intermediario"/>
+      </p>
+    </td>
+    <td align="center" width="35%">
+      <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/avatar.gif" width="280" alt="Avatar animado de um programador"/>
+    </td>
+  </tr>
+</table>
 
-- 🌐 **Poliglota:** Fluente em múltiplas linguagens, tanto humanas quanto de programação, permitindo uma comunicação clara e eficaz em qualquer contexto.
-  <p align="center">
-    <img src="https://img.icons8.com/color/48/brazil-circular.png" alt="Português Nativo"/>
-    <img src="https://img.icons8.com/color/48/usa-circular.png" alt="English Fluent"/>
-    <img src="https://img.icons8.com/color/48/spain-circular.png" alt="Español Intermediario"/>
-  </p>
-
-<details>
-  <summary><b>🤝 Quer colaborar ou bater um papo sobre tecnologia?</b></summary>
-  <br>
-  Estou sempre aberto a novas parcerias, desafios técnicos e conversas sobre o futuro da tecnologia. A melhor forma de me encontrar é pelo Discord!
-  <br><br>
-  <div align="center">
-    <a href="https://discord.com/users/phkaiser13">
-      <img src="https://img.shields.io/badge/Discord-phkaiser13-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-  </div>
-</details>
-
-<br>
 
 <!-- 
 ================================================================================================================================================================
-                                                                    GITHUB STATS
+                                                                  ESTATÍSTICAS DO UNIVERSO GITHUB
 ================================================================================================================================================================
 -->
-## 📊 Minhas Estatísticas no GitHub
+<div align="center">
+  <h2 style="font-size: 24px; border-bottom: 2px solid #50FA7B; padding-bottom: 5px; display: inline-block; color: #F8F8F2; text-shadow: 0 0 5px #50FA7B;">
+    <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+    Minhas Estatísticas no GitHub
+  </h2>
+</div>
+<br>
 
+<!-- Badges Dinâmicos -->
+<p align="center">
+  <a href="https://github.com/phkaiser13?tab=repositories">
+    <img src="https://img.shields.io/github/stars/phkaiser13?style=for-the-badge&logo=github&color=FF79C6&logoColor=white&labelColor=1E1E28" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/phkaiser13?tab=followers">
+    <img src="https://img.shields.io/github/followers/phkaiser13?style=for-the-badge&logo=github&color=8BE9FD&logoColor=white&labelColor=1E1E28" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=phkaiser13&label=PROFILE+VIEWS&color=50FA7B&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<!-- Gráfico de Contribuições e Estatísticas -->
 <div align="center">
   <a href="https://github.com/phkaiser13">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phkaiser13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=8&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=100&theme=tokyonight"/>    
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phkaiser13/github-stats/master/generated/overview.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phkaiser13/github-stats/master/generated/overview.svg">
+      <img height="195em" src="https://raw.githubusercontent.com/phkaiser13/github-stats/master/generated/overview.svg" />
+    </picture>
+     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phkaiser13/github-stats/master/generated/languages.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phkaiser13/github-stats/master/generated/languages.svg">
+      <img height="195em" src="https://raw.githubusercontent.com/phkaiser13/github-stats/master/generated/languages.svg" />
+    </picture>
   </a>
 </div>
 
-
-<!-- 
-================================================================================================================================================================
-                                                                ARSENAL TECNOLÓGICO
-================================================================================================================================================================
--->
-## 🛠️ Meu Arsenal Tecnológico
-
-<p align="center">
-  Minha caixa de ferramentas está sempre evoluindo. Estas são as tecnologias com as quais tenho mais afinidade e experiência para criar soluções de ponta.
-</p>
-<br>
+<!-- Gráfico de Serpente (Snake) -->
 <div align="center">
-    <details open>
-      <summary><b>Linguagens de Programação</b></summary>
-      <br>
-      <div align="center">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-        <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-        <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=TypeScript&logoColor=black" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-      </div>
-    </details>
-    <details open>
-      <summary><b>IA, Embarcados & Sistemas</b></summary>
-      <br>
-      <div align="center">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/LLMOps-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMOps"/>
-        <img src="https://img.shields.io/badge/AI_Tooling-F2A249?style=for-the-badge&logo=google-cloud&logoColor=black" alt="AI Tooling"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-        <img src="https://img.shields.io/badge/IoT-2095E8?style=for-the-badge&logo=e-weblink&logoColor=white" alt="IoT"/>
-        <img src="https://img.shields.io/badge/Microcontrollers-D94A3D?style=for-the-badge&logo=espressif&logoColor=white" alt="Microcontrollers"/>
-        <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=amd&logoColor=white" alt="Assembly"/>
-        <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
-      </div>
-    </details>
+  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </div>
 
+
 <!-- 
 ================================================================================================================================================================
-                                                                PROJETOS EM DESTAQUE
+                                                           ANÁLISE DE LINGUAGENS DE PROGRAMAÇÃO
 ================================================================================================================================================================
 -->
-## 🚀 Projetos em Destaque
+
+<div align="center">
+  <h2 style="font-size: 24px; border-bottom: 2px solid #FFB86C; padding-bottom: 5px; display: inline-block; color: #F8F8F2; text-shadow: 0 0 5px #FFB86C;">
+    <img src="https://img.icons8.com/fluency/48/source-code.png" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+    Análise de Linguagens
+  </h2>
+  <p>Gráfico gerado dinamicamente com as linguagens mais utilizadas nos meus repositórios públicos.</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=50&theme=dracula&card_width=495&hide_border=true&border_radius=15&bg_color=1E1E28" alt="Top Langs" />
+</div>
+
+<br>
+
+<!-- 
+================================================================================================================================================================
+                                                                    ARSENAL TECNOLÓGICO
+================================================================================================================================================================
+-->
+<div align="center">
+  <h2 style="font-size: 24px; border-bottom: 2px solid #FF5555; padding-bottom: 5px; display: inline-block; color: #F8F8F2; text-shadow: 0 0 5px #FF5555;">
+    <img src="https://img.icons8.com/nolan/64/experimental-toolbox-nolan.png" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+    Meu Arsenal Tecnológico
+  </h2>
+</div>
+
+<table width="100%">
+  <tr align="center">
+    <td>
+      <details open>
+        <summary><h3 style="display: inline;">Linguagens & Fundamentos</h3></summary>
+        <p align="center">
+            <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/></a>
+            <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
+            <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
+            <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>
+            <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+            <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white"/></a>
+            <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+            <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
+            <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+            <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Shell-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
+        </p>
+      </details>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <details open>
+        <summary><h3 style="display: inline;">IA, Embarcados & Ecossistema</h3></summary>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,linux,docker,kubernetes,raspberrypi,arduino,wasm,aws,gcp,azure&perline=6" />
+        </p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+<!-- 
+================================================================================================================================================================
+                                                                    PROJETOS EM DESTAQUE
+================================================================================================================================================================
+-->
+<div align="center">
+  <h2 style="font-size: 24px; border-bottom: 2px solid #8BE9FD; padding-bottom: 5px; display: inline-block; color: #F8F8F2; text-shadow: 0 0 5px #8BE9FD;">
+    <img src="https://img.icons8.com/fluency/48/rocket.png" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+    Projetos em Destaque
+  </h2>
+</div>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <!-- Trackie -->
+    <td width="50%" valign="top" style="padding: 15px; background-color: #282A36; border-radius: 10px; border: 1px solid #BD93F9;">
       <div align="center">
         <h3>👁️ Trackie — Assistente Visual Inteligente</h3>
         <a href="https://vytruve.org/vy-ai/" target="_blank">
-          <!-- ADICIONE UM GIF OU IMAGEM DO TRACKIE AQUI -->
           <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/128/external-bionic-eye-artificial-intelligence-flaticons-flat-flat-icons.png" alt="Trackie Logo"/>
         </a>
       </div>
       <p>
-        Desenvolvido pela <strong>Vytruve (vyAi)</strong>, o <strong>Trackie</strong> é uma alternativa acessível e poderosa ao OrCam MyEye, democratizando a tecnologia assistiva. Ele combina <strong>visão computacional em tempo real</strong>, <strong>IA embarcada</strong> e um design de baixo custo para empoderar pessoas com deficiência visual.
+        Uma alternativa revolucionária e acessível ao OrCam MyEye, o <strong>Trackie</strong> da <strong>Vytruve (vyAi)</strong> combina <strong>visão computacional em tempo real</strong>, <strong>IA embarcada</strong> e um design de baixo custo para democratizar a tecnologia assistiva.
       </p>
       <blockquote>
-        <em>"Arquitetura customizada, kernel otimizado e LLMs integradas tornam o Trackie até <strong>10x mais barato</strong> que seus concorrentes, sem sacrificar a performance."</em>
+        <em>"Arquitetura customizada e LLMs otimizadas para um dispositivo <strong>10x mais barato</strong> que a concorrência, mantendo a excelência em performance."</em>
       </blockquote>
       <p align="center">
         <a href="https://vytruve.org/vy-ai/" target="_blank">
-          <img src="https://img.shields.io/badge/Saiba_Mais-2f80ed?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Saiba Mais"/>
+          <img src="https://img.shields.io/badge/Saiba_Mais-BD93F9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Saiba Mais"/>
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <!-- ERPs Inteligentes -->
+    <td width="50%" valign="top" style="padding: 15px; background-color: #282A36; border-radius: 10px; border: 1px solid #50FA7B;">
       <div align="center">
         <h3>⚙️ VersEia, Loria & Storia — ERPs Inteligentes</h3>
         <a href="https://vytruve.org/truve-software/" target="_blank">
-          <!-- ADICIONE UM GIF OU IMAGEM DOS ERPs AQUI -->
           <img src="https://img.icons8.com/fluency/128/gear.png" alt="ERPs Logo"/>
         </a>
       </div>
       <p>
-        Criados pela <strong>Vytruve (TruveSoftware)</strong>, esta suíte de sistemas (ERP, RH, Estoque) foi projetada com foco em <strong>escalabilidade</strong>, <strong>segurança</strong> e <strong>simplicidade</strong>. Escritos em <strong>C/C++</strong> e <strong>Swift</strong>, utilizam uma arquitetura modular para fácil manutenção.
+        Desenvolvida pela <strong>Vytruve (TruveSoftware)</strong>, esta suíte de sistemas (ERP, RH, Estoque) é construída em <strong>C/C++</strong> e <strong>Swift</strong> com foco obsessivo em <strong>desempenho</strong>, <strong>segurança</strong> e <strong>simplicidade</strong>.
       </p>
       <blockquote>
-        <em>"Com uma infraestrutura ultraleve e a tecnologia de <strong>Facilitação de Compreensão</strong>, reduzimos drasticamente a curva de aprendizado e garantimos alta performance em qualquer ambiente."</em>
+        <em>"Infraestrutura ultraleve e a tecnologia de <strong>Facilitação de Compreensão</strong> reduzem drasticamente a curva de aprendizado, garantindo performance em qualquer ambiente."</em>
       </blockquote>
       <p align="center">
         <a href="https://vytruve.org/truve-software/" target="_blank">
-          <img src="https://img.shields.io/badge/Saiba_Mais-f2994a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Saiba Mais"/>
+          <img src="https://img.shields.io/badge/Saiba_Mais-50FA7B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Saiba Mais"/>
         </a>
       </p>
     </td>
@@ -170,41 +224,29 @@
 
 <!-- 
 ================================================================================================================================================================
-                                                              EQUIPES & COLABORAÇÕES
-================================================================================================================================================================
--->
-## 🏢 Equipes & Colaborações
-
-<div align="center">
-  <a href="https://github.com/Vytruve" target="_blank">
-    <img src="https://img.shields.io/badge/Team-Vytruve-6610f2?style=for-the-badge&logo=github&logoColor=white" alt="Vytruve"/>
-  </a>
-  <p>
-    Fundador da <b>Vytruve</b>, uma equipe dedicada ao desenvolvimento de software de alta performance, sistemas embarcados inteligentes e treinamento de IAs.
-  </p>
-</div>
-
-<!-- 
-================================================================================================================================================================
                                                                     VAMOS CONECTAR!
 ================================================================================================================================================================
 -->
-## 📫 Vamos nos Conectar!
-
 <p align="center">
-  Estou sempre em busca de novas conexões, parcerias e desafios. Sinta-se à vontade para entrar em contato!
+  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/line.svg" width="100%" alt="Linha Divisória Animada">
 </p>
 
 <div align="center">
-  <a href="mailto:phgarcia2008@icloud.com">
+  <h2 style="font-size: 24px; color: #F8F8F2;">
+    <img src="https://img.icons8.com/fluency/48/paper-plane.png" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+    Vamos nos Conectar!
+  </h2>
+  <p>Sua próxima grande ideia pode estar a uma mensagem de distância. Vamos construir o futuro juntos.</p>
+  <a href="mailto:phgarcia2008@icloud.com" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/iCloud_Mail-000?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/phgarcia13">
+  <a href="https://www.linkedin.com/in/phgarcia13" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://discord.com/users/phkaiser13">
+    <img src="https://img.shields.io/badge/Discord-phkaiser13-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </div>
-
-<br>
 
 <!-- 
 ================================================================================================================================================================
@@ -212,11 +254,8 @@
 ================================================================================================================================================================
 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake svg">
-</div>
-
-
-<p align="center">
   <br>
-  <em>"Busco transformar ideias complexas em soluções práticas. O impossível para mim só se torna impossível a partir do momento que eu não conseguir."</em>
-</p>
+  <p><em>"A curiosidade é o combustível da descoberta. O impossível é apenas um desafio esperando por uma solução criativa."</em></p>
+  <p><small>Feito com ❤️, IA e muitas xícaras de café.</small></p>
+  <p><small>Layout inspirado por muitas mentes criativas da comunidade open source.</small></p>
+</div>
