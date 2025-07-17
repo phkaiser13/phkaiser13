@@ -70,9 +70,7 @@
       <p align="left"> 
         Eu sou <strong>Pedro Henrique Garcia</strong>, mas no vasto universo do código, sou um arquiteto de realidades digitais. Como <strong>Engenheiro de Software e Desenvolvedor de Sistemas Embarcados</strong>, meu playground é a fronteira onde o hardware encontra a <strong>Inteligência Artificial</strong>. Não apenas escrevo código; eu ensino máquinas a pensar, a ver e a interagir com o nosso mundo de formas cada vez mais profundas.
       </p>
-
       <br>
-
       <!-- Subseção de Especialidades -->
       <h3 align="left" style="color: #f1fa8c;">🎯 Principais Habilidades:</h3>
       <ul>
@@ -82,7 +80,6 @@
         <li><img src="https://img.icons8.com/stickers/100/translation.png" width="22" style="vertical-align: -4px; margin-right: 5px;" /> <strong>Comunicação Poliglota e Interdisciplinar:</strong> A fluência em múltiplas linguagens de programação e humanas (PT-BR, EN, ES) me permite transitar entre diferentes domínios e equipes, traduzindo necessidades em soluções técnicas eficazes.</li>
       </ul>
     </td>
-
     <!-- Coluna de Imagem/GIF e status -->
     <td align="center" width="35%">
       <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/avatar_v2.gif" width="250" alt="Avatar animado de um programador no espaço"/>
@@ -264,7 +261,6 @@
         Vamos Construir o Futuro Juntos?
     </h2>
     <p style="color:#e0e0e0;">Estou sempre aberto a novas colaborações, desafios técnicos e conversas sobre o futuro da tecnologia. Sua próxima grande ideia pode estar a uma mensagem de distância.</p>
-
     <!-- Badges de Contato Grandes -->
     <a href="mailto:phgarcia2008@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-000?style=for-the-badge&logo=icloud&logoColor=white" alt="Email iCloud"/></a>
     <a href="https://www.linkedin.com/in/phgarcia13"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
