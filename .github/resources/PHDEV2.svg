@@ -1,88 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300">
-  <!-- Definições de gradientes, filtros e animações -->
+  <!-- Definições de Gradientes e Filtros -->
   <defs>
-    <!-- Gradiente de fundo animado -->
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1f1c2c" />
-      <stop offset="100%" stop-color="#928dab" />
-      <animate attributeName="x1" values="0%;100%;0%" dur="15s" repeatCount="indefinite" />
-      <animate attributeName="y2" values="100%;0%;100%" dur="15s" repeatCount="indefinite" />
+    <!-- Gradiente de Fundo Vibrante -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff006e"/>
+      <stop offset="50%" stop-color="#8338ec"/>
+      <stop offset="100%" stop-color="#3a86ff"/>
     </linearGradient>
-
-    <!-- Gradiente para formas com movimento sutil -->
-    <linearGradient id="shapeGradient" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f8cdda" stop-opacity="0.6" />
-      <stop offset="100%" stop-color="#1d2b64" stop-opacity="0.6" />
+    <!-- Gradiente para Formas Dinâmicas -->
+    <linearGradient id="shapeGradient1" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd6a5" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#fb5607" stop-opacity="0.8"/>
     </linearGradient>
-
-    <!-- Filtro de sombra projetada -->
-    <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="blur" />
-      <feOffset in="blur" dx="4" dy="4" result="offsetBlur" />
-      <feMerge>
-        <feMergeNode in="offsetBlur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
+    <linearGradient id="shapeGradient2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#80ffdb" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#38b000" stop-opacity="0.7"/>
+    </linearGradient>
+    <!-- Sombra para Destaque das Formas -->
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.3"/>
     </filter>
-
-    <!-- Estilos de texto com sombra leve -->
+    <!-- Estilos de Texto -->
     <style>
-      .title {
-        fill: #ffffff;
-        font-family: 'Segoe UI', sans-serif;
-        font-size: 52px;
-        font-weight: 700;
-        filter: url(#dropShadow);
-      }
-      .subtitle {
-        fill: #e0e0e0;
-        font-family: 'Segoe UI', sans-serif;
-        font-size: 26px;
-        font-weight: 500;
-      }
-      .skills {
-        fill: #c0c0c0;
-        font-family: 'Segoe UI', sans-serif;
-        font-size: 18px;
-      }
-      .underline {
-        stroke: #ffffff;
-        stroke-width: 2;
-        opacity: 0.8;
-      }
-      .shape {
-        filter: url(#dropShadow);
-        transform-origin: center;
-        animation: rotateShape 30s infinite linear;
-      }
-      @keyframes rotateShape {
-        from { transform: rotate(0deg); }
-        to   { transform: rotate(360deg); }
-      }
+      .title { fill: #ffffff; font-family: 'Montserrat', sans-serif; font-size: 52px; font-weight: 700; }
+      .subtitle { fill: #f0f0f0; font-family: 'Montserrat', sans-serif; font-size: 24px; font-weight: 500; }
+      .skills { fill: #e0e0e0; font-family: 'Montserrat', sans-serif; font-size: 16px; }
     </style>
   </defs>
 
-  <!-- Fundo animado -->
+  <!-- Fundo -->
   <rect width="1280" height="300" fill="url(#bgGradient)" />
 
-  <!-- Formas geométricas dinâmicas com sombra e rotação -->
-  <polygon class="shape" points="0,300 300,150 0,0" fill="url(#shapeGradient)" />
-  <circle class="shape" cx="900" cy="150" r="170" fill="url(#shapeGradient)" />
-  <rect class="shape" x="400" y="50" width="400" height="200" rx="30" ry="30" fill="url(#shapeGradient)" />
+  <!-- Formas à Esquerda -->
+  <polygon points="0,300 250,180 0,60" fill="url(#shapeGradient1)" filter="url(#shadow)" />
+  <circle cx="200" cy="150" r="90" fill="url(#shapeGradient2)" filter="url(#shadow)" />
+  <ellipse cx="380" cy="80" rx="140" ry="40" fill="#ffbe0b" opacity="0.6" filter="url(#shadow)" />
+  <path d="M450,300 C320,180 550,160 420,60 L600,0 L600,300 Z" fill="url(#shapeGradient1)" opacity="0.7" />
 
-  <!-- Texto principal com linha de destaque -->
-  <text x="60" y="110" class="title">Pedro H (Phkaiser13)</text>
-  <line x1="60" y1="120" x2="460" y2="120" class="underline" />
-  <text x="60" y="160" class="subtitle">Engineer &amp; Full‑Stack Dev</text>
+  <!-- Destaques Animados -->
+  <circle cx="120" cy="40" r="8" fill="#ffffff" opacity="0.9">
+    <animate attributeName="r" values="5;15;5" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <rect x="330" y="200" width="20" height="20" fill="#ffffff" opacity="0.8">
+    <animateTransform attributeName="transform" type="rotate" from="0 340 210" to="360 340 210" dur="6s" repeatCount="indefinite"/>
+  </rect>
 
-  <!-- Texto secundário / skills com espaçamento aprimorado -->
-  <text x="60" y="205" class="skills">Softwares ・ Applications ・ AI &amp; LLM</text>
-  <text x="60" y="230" class="skills">C/C++ ・ Rust ・ Java ・ C# ・ Python</text>
+  <!-- Linha Vertical de Separação -->
+  <line x1="640" y1="20" x2="640" y2="280" stroke="#ffffff" stroke-width="2" opacity="0.3" stroke-dasharray="4 4"/>
 
-  <!-- Decoração extra: linhas diagonais finas -->
-  <g stroke="#ffffff" stroke-opacity="0.1" stroke-width="1">
-    <line x1="0" y1="0" x2="1280" y2="300" />
-    <line x1="0" y1="50" x2="1230" y2="300" />
-  </g>
+  <!-- Texto à Direita -->
+  <text x="680" y="100" class="title">Pedro H (Phkaiser13)</text>
+  <text x="680" y="145" class="subtitle">Engineer & Full‑Stack Developer</text>
+  <text x="680" y="185" class="skills">Software ・ Applications ・ AI & LLM</text>
+  <text x="680" y="210" class="skills">C/C++ ・ Rust ・ Java ・ C# ・ Python</text>
+  <text x="680" y="235" class="skills">DevOps ・ Cloud ・ IoT ・ Embedded Systems</text>
+
+  <!-- Detalhes Ornamentais -->
+  <circle cx="1250" cy="30" r="3" fill="#ffffff" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1230" cy="260" r="5" fill="#ffffff" opacity="0.5"/>
+  <circle cx="1180" cy="150" r="4" fill="#ffffff" opacity="0.7"/>
 </svg>
