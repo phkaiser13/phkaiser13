@@ -196,7 +196,7 @@
       </blockquote>
       <p align="center">
         <a href="https://vytruve.org/vy-ai/" target="_blank">
-          <img src="https://img.shields.io/badge/Saiba_Mais-2f80ed?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Saiba Mais"/>
+          <img src="https://img.icons8.com/?size=100&id=MlZc4Ta0Lvor&format=png&color=000000" alt="Saiba Mais"/>
         </a>
       </p>
     </td>
