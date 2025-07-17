@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+  <!-- Background Gradient -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E3440"/>
+      <stop offset="100%" stop-color="#5E81AC"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#88C0D0"/>
+      <stop offset="100%" stop-color="#81A1C1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#bgGrad)"/>
+
+  <!-- Abstract Circles -->
+  <circle cx="200" cy="100" r="80" fill="url(#accentGrad)" opacity="0.3"/>
+  <circle cx="1000" cy="300" r="120" fill="#4C566A" opacity="0.4"/>
+  <circle cx="700" cy="150" r="60" fill="url(#accentGrad)" opacity="0.25"/>
+
+  <!-- Main Text -->
+  <text x="50%" y="45%" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="48" fill="#ECEFF4" font-weight="700">
+    Pedro H <tspan fill="#81A1C1">(Phkaiser13)</tspan>
+  </text>
+  <text x="50%" y="60%" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="24" fill="#D8DEE9">
+    Engineer / Dev  •  Softwares • Applications • AI • LLM • Full Stack Dev
+  </text>
+
+  <!-- Technologies List -->
+  <g transform="translate(200,300)">
+    <text font-family="'Segoe UI', sans-serif" font-size="20" fill="#ECEFF4">C/C++</text>
+    <circle cx="120" cy="-6" r="4" fill="#ECEFF4"/>
+    <text x="140" font-family="'Segoe UI', sans-serif" font-size="20" fill="#ECEFF4">Rust</text>
+    <circle cx="260" cy="-6" r="4" fill="#ECEFF4"/>
+    <text x="280" font-family="'Segoe UI', sans-serif" font-size="20" fill="#ECEFF4">Java</text>
+    <circle cx="380" cy="-6" r="4" fill="#ECEFF4"/>
+    <text x="400" font-family="'Segoe UI', sans-serif" font-size="20" fill="#ECEFF4">C#</text>
+    <circle cx="480" cy="-6" r="4" fill="#ECEFF4"/>
+    <text x="500" font-family="'Segoe UI', sans-serif" font-size="20" fill="#ECEFF4">Python</text>
+  </g>
+
+  <!-- Bottom Accent Bar -->
+  <rect y="380" width="1200" height="20" fill="url(#accentGrad)"/>
+</svg>
