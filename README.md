@@ -185,8 +185,7 @@
       <div align="center">
         <h3>👁️ Trackie — Assistente Visual Inteligente</h3>
         <a href="https://vytruve.org/vy-ai/" target="_blank">
-          <!-- ADICIONE UM GIF OU IMAGEM DO TRACKIE AQUI -->
-          <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/128/external-bionic-eye-artificial-intelligence-flaticons-flat-flat-icons.png" alt="Trackie Logo"/>
+          <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="Trackie Logo"/>
         </a>
       </div>
       <p>
