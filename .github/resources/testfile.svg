@@ -1,0 +1,227 @@
+%%writefile linkedin_banner.svg
+<!-- 
+  LinkedIn Banner SVG - Glassmorphism Aesthetic
+  Created for: Pedro Henrique (phkaiser13)
+  Design Concept: Modern, dynamic, with flying objects and glass effects.
+  File Size Goal: Extensive, >500 lines.
+-->
+<svg width="1584" height="396" viewBox="0 0 1584 396" xmlns="http://www.w3.org/2000/svg" style="font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;">
+
+  <!-- ================================================================= -->
+  <!-- DEFINITIONS (Filters, Gradients, etc.)                          -->
+  <!-- ================================================================= -->
+  <defs>
+
+    <!-- Filter for the main glass panel -->
+    <filter id="glass-effect" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="15" result="blur" />
+      <feOffset in="blur" dx="0" dy="5" result="offsetBlur" />
+      <!-- Adding some noise for a more realistic glass texture -->
+      <feTurbulence type="fractalNoise" baseFrequency="0.1 0.4" numOctaves="3" seed="10" stitchTiles="stitch" result="noise"/>
+      <feComposite operator="in" in="noise" in2="offsetBlur" result="noisyBlur"/>
+      <feComposite operator="in" in="SourceGraphic" in2="noisyBlur" />
+      <feSpecularLighting surfaceScale="5" specularConstant=".75" specularExponent="20" lighting-color="#FFFFFF" in="blur" result="specular">
+        <fePointLight x="-5000" y="-10000" z="20000" />
+      </feSpecularLighting>
+      <feComposite in="specular" in2="SourceGraphic" operator="in" result="specular" />
+      <feComposite in="SourceGraphic" in2="specular" operator="arithmetic" k1="0" k2="1" k3="1" k4="0" />
+    </filter>
+
+    <!-- Filter for soft drop shadows -->
+    <filter id="soft-shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="5" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.15" />
+    </filter>
+    
+    <!-- Filter for text shadow -->
+    <filter id="text-shadow">
+        <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3" />
+    </filter>
+    
+    <!-- Filter for a subtle inner glow on text -->
+    <filter id="text-glow">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="dilated" />
+      <feGaussianBlur in="dilated" stdDeviation="2" result="blurred" />
+      <feFlood flood-color="white" flood-opacity="0.5" />
+      <feComposite in2="blurred" operator="in" />
+      <feComposite in="SourceGraphic" operator="lighter" />
+    </filter>
+
+    <!-- Main Background Gradient -->
+    <linearGradient id="background-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color: #f2d5f7; stop-opacity: 1" />
+      <stop offset="100%" style="stop-color: #d8b4fe; stop-opacity: 1" />
+    </linearGradient>
+
+    <!-- Gradient for Object 1 (Purple Cube) -->
+    <linearGradient id="grad-obj1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#d946ef" />
+    </linearGradient>
+
+    <!-- Gradient for Object 2 (Orange/Yellow Cube) -->
+    <linearGradient id="grad-obj2" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#facc15" />
+    </linearGradient>
+
+    <!-- Gradient for Object 3 (Teal Sphere) -->
+    <radialGradient id="grad-obj3">
+      <stop offset="0%" stop-color="#5eead4" />
+      <stop offset="100%" stop-color="#14b8a6" />
+    </radialGradient>
+    
+    <!-- Gradient for Object 4 (Pink/Purple element) -->
+    <linearGradient id="grad-obj4" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ec4899" />
+        <stop offset="50%" stop-color="#d946ef" />
+        <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+
+    <!-- Gradient for the Text -->
+    <linearGradient id="text-gradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#E0E0E0" />
+    </linearGradient>
+
+    <!-- Pattern for striped objects -->
+    <pattern id="stripe-pattern" patternUnits="userSpaceOnUse" width="20" height="20" patternTransform="rotate(45)">
+      <rect width="10" height="20" fill="rgba(255,255,255,0.3)" />
+    </pattern>
+    
+  </defs>
+
+  <!-- ================================================================= -->
+  <!-- BACKGROUND ELEMENTS                                             -->
+  <!-- ================================================================= -->
+  <g id="background">
+    <!-- The main background rectangle with gradient -->
+    <rect width="1584" height="396" fill="url(#background-gradient)" />
+
+    <!-- Soft light sources (auras) for depth -->
+    <circle cx="200" cy="100" r="250" fill="#fbcfe8" opacity="0.4" filter="url(#glass-effect)" />
+    <circle cx="1400" cy="300" r="200" fill="#e9d5ff" opacity="0.5" filter="url(#glass-effect)" />
+    <circle cx="800" cy="50" r="150" fill="#f5d0fe" opacity="0.3" filter="url(#glass-effect)" />
+  </g>
+
+  <!-- ================================================================= -->
+  <!-- OBJECTS BEHIND THE GLASS                                        -->
+  <!-- ================================================================= -->
+  <g id="background-objects" style="filter: blur(2px);">
+  
+    <!-- A distant, rotating cube -->
+    <g transform="translate(150, 280) rotate(25)">
+      <rect x="-40" y="-40" width="80" height="80" fill="url(#grad-obj4)" rx="10" style="filter: url(#soft-shadow);"/>
+    </g>
+    
+    <!-- A distant sphere -->
+    <circle cx="950" cy="80" r="40" fill="url(#grad-obj3)" opacity="0.8" />
+
+  </g>
+
+  <!-- ================================================================= -->
+  <!-- CENTRAL GLASS MORPHISM PANEL                                    -->
+  <!-- ================================================================= -->
+  <g id="glass-panel-group">
+    <!-- The path is complex to make it feel more organic -->
+    <path d="M 120 80 Q 100 80, 100 100 L 100 296 Q 100 316, 120 316 L 1000 316 Q 1020 316, 1020 296 L 1020 100 Q 1020 80, 1000 80 Z"
+          fill="rgba(255, 255, 255, 0.25)"
+          stroke="rgba(255, 255, 255, 0.4)"
+          stroke-width="2"
+          style="filter: url(#glass-effect);" />
+  </g>
+
+  <!-- ================================================================= -->
+  <!-- FOREGROUND OBJECTS                                              -->
+  <!-- ================================================================= -->
+  <g id="foreground-objects" style="filter: url(#soft-shadow);">
+
+    <!-- Object 1: Large Purple Striped Cube -->
+    <g transform="translate(250, 150) rotate(-20) scale(1.1)">
+      <rect x="-60" y="-60" width="120" height="120" fill="url(#grad-obj1)" rx="15" />
+      <rect x="-60" y="-60" width="120" height="120" fill="url(#stripe-pattern)" rx="15" />
+    </g>
+    
+    <!-- Object 2: Small Yellow/Orange Cube -->
+    <g transform="translate(850, 250) rotate(50)">
+      <rect x="-30" y="-30" width="60" height="60" fill="url(#grad-obj2)" rx="8"/>
+    </g>
+
+    <!-- Object 3: Floating Teal Sphere -->
+    <circle cx="400" cy="280" r="45" fill="url(#grad-obj3)" />
+    
+    <!-- Object 4: Abstract shape -->
+    <path d="M 600 80 C 650 30, 750 60, 780 120 C 810 180, 700 220, 650 190 C 600 160, 550 130, 600 80 Z" 
+          fill="rgba(255,255,255,0.6)"
+          stroke="rgba(255,255,255,0.8)" 
+          stroke-width="1.5"
+    />
+    
+    <!-- Another small cube in the distance -->
+    <g transform="translate(1500, 100) rotate(15)">
+      <rect x="-25" y="-25" width="50" height="50" fill="url(#grad-obj4)" rx="5" />
+      <rect x="-25" y="-25" width="50" height="50" fill="url(#stripe-pattern)" rx="5" opacity="0.5"/>
+    </g>
+    
+    <!-- Another floating sphere -->
+     <circle cx="650" cy="300" r="20" fill="#facc15" opacity="0.9" />
+
+  </g>
+
+  <!-- ================================================================= -->
+  <!-- TEXT INFORMATION (RIGHT-ALIGNED)                                -->
+  <!-- ================================================================= -->
+  <g id="text-info" transform="translate(1100, 0)" style="filter: url(#text-shadow);">
+
+    <!-- Name: Pedro Henrique -->
+    <text x="450" y="130" 
+          font-size="48" 
+          font-weight="bold" 
+          fill="url(#text-gradient)" 
+          text-anchor="end"
+          style="filter: url(#text-glow);">
+      Pedro Henrique
+    </text>
+
+    <!-- Username: (phkaiser13) -->
+    <text x="450" y="165" 
+          font-size="22" 
+          font-weight="normal" 
+          fill="#FFFFFF" 
+          opacity="0.85"
+          text-anchor="end">
+      (phkaiser13)
+    </text>
+
+    <!-- Divider Line -->
+    <line x1="200" y1="190" x2="450" y2="190" stroke="#FFFFFF" stroke-width="1" opacity="0.6"/>
+
+    <!-- Skills: Software, Developer, Ai, LLm's -->
+    <text x="450" y="225" 
+          font-size="20" 
+          font-weight="600" 
+          fill="#FFFFFF" 
+          opacity="0.9"
+          letter-spacing="1"
+          text-anchor="end">
+      Software, Developer, Ai, LLm's
+    </text>
+
+    <!-- Languages: C/c++, RUST, Java, C#, Python -->
+    <!-- Using multiple tspan to style them as code blocks -->
+    <text x="450" y="270"
+          font-size="18"
+          font-weight="500"
+          fill="#FFFFFF"
+          opacity="0.95"
+          text-anchor="end"
+          font-family="'Fira Code', 'Courier New', monospace">
+      <tspan fill="#f5d0fe">C/C++</tspan>
+      <tspan dx="-1em" dy="1.4em" fill="#fcd34d">RUST</tspan>
+      <tspan dx="-1em" dy="1.4em" fill="#bfdbfe">JAVA</tspan>
+      <tspan dx="-1em" dy="1.4em" fill="#a7f3d0">C#</tspan>
+      <tspan dx="-1em" dy="1.4em" fill="#fecaca">PYTHON</tspan>
+    </text>
+
+  </g>
+
+</svg>
