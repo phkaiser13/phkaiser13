@@ -123,7 +123,7 @@
 ================================================================================================================================================================
 -->
 <h2 align="center" style="color: #f8f8f2; border-bottom: 3px solid #ff5555; padding-bottom: 10px; text-shadow: 0 0 10px #ff5555;">
-  <img src="https://img.icons8.com/nolan/64/experimental-toolbox-nolan.png" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://img.icons8.com/?size=100&id=ISeBB5SFp53c&format=png&color=000000" width="40" style="vertical-align: middle; margin-right: 10px;"/>
   Arsenal Tecnológico
 </h2>
 
