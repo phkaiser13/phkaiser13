@@ -46,7 +46,7 @@
 
 <!-- SEPARADOR VISUAL ANIMADO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/line.svg" width="90%" alt="Separador animado roxo">
+  <img src="https://images.vexels.com/media/users/3/130026/isolated/svg/0c30e9ad0ab6dd704b6e936dbfd1e345.svg" width="90%" alt="Separador animado roxo">
 </p>
 
 <!--
@@ -99,7 +99,7 @@
 
 <!-- SEPARADOR VISUAL ANIMADO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/line.svg" width="90%" alt="Separador animado roxo">
+  <img src="https://images.vexels.com/media/users/3/130026/isolated/svg/0c30e9ad0ab6dd704b6e936dbfd1e345.svg" width="90%" alt="Separador animado roxo">
 </p>
 
 <h2 align="center" style="color: #f8f8f2; border-bottom: 3px solid #50fa7b; padding-bottom: 10px; text-shadow: 0 0 10px #50fa7b;">
@@ -142,7 +142,7 @@
 
 <!-- SEPARADOR VISUAL ANIMADO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/line.svg" width="90%" alt="Separador animado roxo">
+  <img src="https://images.vexels.com/media/users/3/130026/isolated/svg/0c30e9ad0ab6dd704b6e936dbfd1e345.svg" width="90%" alt="Separador animado roxo">
 </p>
 
 <h2 align="center" style="color: #f8f8f2; border-bottom: 3px solid #ff5555; padding-bottom: 10px; text-shadow: 0 0 10px #ff5555;">
@@ -200,7 +200,7 @@
 
 <!-- SEPARADOR VISUAL ANIMADO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/line.svg" width="90%" alt="Separador animado roxo">
+  <img src="https://images.vexels.com/media/users/3/130026/isolated/svg/0c30e9ad0ab6dd704b6e936dbfd1e345.svg" width="90%" alt="Separador animado roxo">
 </p>
 
 <h2 align="center" style="color: #f8f8f2; border-bottom: 3px solid #8be9fd; padding-bottom: 10px; text-shadow: 0 0 10px #8be9fd;">
