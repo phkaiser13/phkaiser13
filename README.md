@@ -38,7 +38,6 @@
       <p align="left"> 
         Sou <strong>Pedro Henrique Garcia</strong>, um <strong>Engenheiro de Software e Desenvolvedor de Sistemas Embarcados</strong> com uma paixão avassaladora por <strong>Inteligência Artificial</strong>. Minha missão é traduzir as complexas sinfonias da teoria em soluções práticas e elegantes, construindo ferramentas que não apenas funcionam, mas que pensam e resolvem problemas de forma autônoma e eficiente.
       </p>
-
       <ul>
         <li><img src="https://skillicons.dev/icons?i=prompt" width="16" /> <strong>Engenheiro de Prompt & IA:</strong> Mestre em orquestrar e otimizar Modelos de Linguagem Grandes (LLMs) para interações mais humanas e resultados surpreendentes.</li>
         <li><img src="https://skillicons.dev/icons?i=wasm" width="16" /> <strong>Arquiteto de Soluções:</strong> Da fundação do firmware em microcontroladores ao ápice das aplicações de software, construo sistemas robustos e escaláveis.</li>
