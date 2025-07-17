@@ -15,8 +15,8 @@
 <!-- INÍCIO DO CABEÇALHO PRINCIPAL -->
 <div align="center">
 
-  <!-- GIF do Banner Principal -->
-  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/banner_v2.gif" alt="Banner Animado do Universo Digital"/>
+  <!-- GIF do Banner Principal: Um túnel de dados roxo e azul, representando o fluxo de informação e a complexidade do seu trabalho. -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/banner.gif" alt="Banner Animado do Universo Digital"/>
 
   <!-- Animação de Digitação com Gradiente de Texto -->
   <a href="https://git.io/typing-svg">
@@ -44,9 +44,9 @@
     <img src="https://img.shields.io/badge/coverage-100%25-brightgreen?style=for-the-badge&logo=coveralls&logoColor=white&labelColor=282A36" alt="Coverage 100%">
 </p>
 
-<!-- SEPARADOR VISUAL ANIMADO -->
+<!-- SEPARADOR VISUAL ANIMADO: Uma linha de pulso de áudio ou dados, energética e minimalista. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/line.svg" width="90%" alt="Separador animado roxo">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/assets/graph.gif" width="90%" alt="Separador animado roxo">
 </p>
 
 <!--
@@ -80,9 +80,9 @@
         <li><img src="https://img.icons8.com/stickers/100/translation.png" width="22" style="vertical-align: -4px; margin-right: 5px;" /> <strong>Comunicação Poliglota e Interdisciplinar:</strong> A fluência em múltiplas linguagens de programação e humanas (PT-BR, EN, ES) me permite transitar entre diferentes domínios e equipes, traduzindo necessidades em soluções técnicas eficazes.</li>
       </ul>
     </td>
-    <!-- Coluna de Imagem/GIF e status -->
+    <!-- Coluna de Imagem/GIF e status: Um avatar cyberpunk que reflete a fusão homem-máquina, perfeito para um especialista em IA e Embarcados. -->
     <td align="center" width="35%">
-      <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/avatar_v2.gif" width="250" alt="Avatar animado de um programador no espaço"/>
+      <img src="https://github.com/ashutosh-10/ashutosh-10/raw/main/assets/Developer.gif" width="280" alt="Avatar animado de um programador no espaço"/>
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=phkaiser13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats"/>
     </td>
@@ -99,7 +99,7 @@
 
 <!-- SEPARADOR VISUAL ANIMADO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/line.svg" width="90%" alt="Separador animado roxo">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/assets/graph.gif" width="90%" alt="Separador animado roxo">
 </p>
 
 <h2 align="center" style="color: #f8f8f2; border-bottom: 3px solid #50fa7b; padding-bottom: 10px; text-shadow: 0 0 10px #50fa7b;">
@@ -125,7 +125,7 @@
 </div>
 <br>
 
-<!-- GRÁFICO DE SERPENTE COM TEMAS DARK/LIGHT -->
+<!-- GRÁFICO DE SERPENTE COM TEMAS DARK/LIGHT (este link é gerado automaticamente para você, então já está correto)-->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phkaiser13/phkaiser13/output/github-contribution-grid-snake-dark.svg">
@@ -142,7 +142,7 @@
 
 <!-- SEPARADOR VISUAL ANIMADO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/line.svg" width="90%" alt="Separador animado roxo">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/assets/graph.gif" width="90%" alt="Separador animado roxo">
 </p>
 
 <h2 align="center" style="color: #f8f8f2; border-bottom: 3px solid #ff5555; padding-bottom: 10px; text-shadow: 0 0 10px #ff5555;">
@@ -200,7 +200,7 @@
 
 <!-- SEPARADOR VISUAL ANIMADO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/line.svg" width="90%" alt="Separador animado roxo">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/assets/graph.gif" width="90%" alt="Separador animado roxo">
 </p>
 
 <h2 align="center" style="color: #f8f8f2; border-bottom: 3px solid #8be9fd; padding-bottom: 10px; text-shadow: 0 0 10px #8be9fd;">
@@ -274,11 +274,11 @@
 ========================================================================================================================================================================================================
 -->
 
-<!-- O GRADIENTE ROXO NO FINAL - A onda de encerramento -->
-<img src="https://raw.githubusercontent.com/phkaiser13/phkaiser13/main/assets/wave.svg" alt="Footer wave"/>
+<!-- O GRADIENTE ROXO NO FINAL - A onda de encerramento, limpa e estilizada no padrão Dracula. -->
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/wave.svg" alt="Footer wave"/>
 
 <!-- Citação Final e Créditos -->
-<div align="center" style="margin-top: -30px;">
+<div align="center" style="margin-top: -55px; position: relative;">
   <p style="font-family: 'Fira Code', monospace; font-style: italic; color: #f8f8f2; text-shadow: 0 0 5px #000;">
     "O impossível para mim só se torna impossível a partir do momento que eu não conseguir."
   </p>
