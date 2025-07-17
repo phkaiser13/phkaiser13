@@ -182,12 +182,17 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>👁️ Trackie — Assistente Visual Inteligente</h3>
-        <a href="https://vytruve.org/vy-ai/" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="Trackie Logo"/>
-        </a>
-      </div>
+<div align="center">
+  <h3>👁️ Trackie — Assistente Visual Inteligente</h3>
+  <a href="https://vytruve.org/vy-ai/" target="_blank" style="display: inline-block;">
+    <img 
+      src="https://img.icons8.com/?size=100&id=MlZc4Ta0Lvor&format=png&color=000000" 
+      alt="Logo do Assistente Trackie" 
+      width="100" 
+      height="100"
+    />
+  </a>
+</div>
       <p>
         Desenvolvido pela <strong>Vytruve (vyAi)</strong>, o <strong>Trackie</strong> é uma alternativa acessível e poderosa ao OrCam MyEye, democratizando a tecnologia assistiva. Ele combina <strong>visão computacional em tempo real</strong>, <strong>IA embarcada</strong> e um design de baixo custo para empoderar pessoas com deficiência visual.
       </p>
@@ -196,7 +201,7 @@
       </blockquote>
       <p align="center">
         <a href="https://vytruve.org/vy-ai/" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=MlZc4Ta0Lvor&format=png&color=000000" alt="Saiba Mais"/>
+          <img src="https://img.shields.io/badge/Saiba_Mais-2f80ed?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Saiba Mais"/>
         </a>
       </p>
     </td>
