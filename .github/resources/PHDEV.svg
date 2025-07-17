@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300">
+  <!-- Fundo com gradiente diagonal -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f1c2c"/>
+      <stop offset="100%" stop-color="#928dab"/>
+    </linearGradient>
+    <!-- Gradiente para formas -->
+    <linearGradient id="shapeGradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f8cdda" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#1d2b64" stop-opacity="0.6"/>
+    </linearGradient>
+    <style>
+      .title { fill: #ffffff; font-family: 'Segoe UI', sans-serif; font-size: 48px; font-weight: 600; }
+      .subtitle { fill: #e0e0e0; font-family: 'Segoe UI', sans-serif; font-size: 24px; }
+      .skills { fill: #c0c0c0; font-family: 'Segoe UI', sans-serif; font-size: 16px; }
+    </style>
+  </defs>
+
+  <!-- Retângulo de fundo -->
+  <rect width="1280" height="300" fill="url(#bgGradient)" />
+
+  <!-- Formas geométricas dinâmicas -->
+  <polygon points="0,300 300,150 0,0" fill="url(#shapeGradient)" />
+  <circle cx="900" cy="150" r="180" fill="url(#shapeGradient)" />
+  <rect x="400" y="50" width="400" height="200" rx="20" ry="20" fill="url(#shapeGradient)" />
+
+  <!-- Texto principal -->
+  <text x="50" y="100" class="title">Pedro H (Phkaiser13)</text>
+  <text x="50" y="145" class="subtitle">Engineer &amp; Full‑Stack Dev</text>
+  
+  <!-- Texto secundário / skills -->
+  <text x="50" y="190" class="skills">
+    Softwares ・ Applications ・ AI &amp; LLM
+  </text>
+  <text x="50" y="215" class="skills">
+    C/C++ ・ Rust ・ Java ・ C# ・ Python
+  </text>
+</svg>
