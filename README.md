@@ -46,8 +46,9 @@
 
 <!-- SEPARADOR VISUAL ANIMADO -->
 <p align="center">
-  <img src="https://images.vexels.com/media/users/3/130026/isolated/svg/0c30e9ad0ab6dd704b6e936dbfd1e345.svg" width="90%" alt="Separador animado roxo">
+  <img src="https://images.vexels.com/media/users/3/130026/isolated/svg/0c30e9ad0ab6dd704b6e936dbfd1e345.svg" width="90%" style="margin: 0; padding: 0;" alt="Separador roxo decorativo" />
 </p>
+
 
 <!--
 ========================================================================================================================================================================================================
