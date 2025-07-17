@@ -1,10 +1,4 @@
-%%writefile linkedin_banner.svg
-<!-- 
-  LinkedIn Banner SVG - Glassmorphism Aesthetic
-  Created for: Pedro Henrique (phkaiser13)
-  Design Concept: Modern, dynamic, with flying objects and glass effects.
-  File Size Goal: Extensive, >500 lines.
--->
+
 <svg width="1584" height="396" viewBox="0 0 1584 396" xmlns="http://www.w3.org/2000/svg" style="font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;">
 
   <!-- ================================================================= -->
@@ -216,10 +210,10 @@
           text-anchor="end"
           font-family="'Fira Code', 'Courier New', monospace">
       <tspan fill="#f5d0fe">C/C++</tspan>
-      <tspan dx="-1em" dy="1.4em" fill="#fcd34d">RUST</tspan>
-      <tspan dx="-1em" dy="1.4em" fill="#bfdbfe">JAVA</tspan>
-      <tspan dx="-1em" dy="1.4em" fill="#a7f3d0">C#</tspan>
-      <tspan dx="-1em" dy="1.4em" fill="#fecaca">PYTHON</tspan>
+      <tspan dx="-2em" dy="1.4em" x="450" fill="#fcd34d">RUST</tspan>
+      <tspan dx="-2em" dy="1.4em" x="450" fill="#bfdbfe">JAVA</tspan>
+      <tspan dx="-2em" dy="1.4em" x="450" fill="#a7f3d0">C#</tspan>
+      <tspan dx="-2em" dy="1.4em" x="450" fill="#fecaca">PYTHON</tspan>
     </text>
 
   </g>
