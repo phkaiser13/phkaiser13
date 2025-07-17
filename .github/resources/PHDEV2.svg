@@ -1,64 +1,69 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300">
   <!-- Definições de Gradientes e Filtros -->
   <defs>
-    <!-- Gradiente de Fundo Vibrante -->
+    <!-- Gradiente de Fundo Corporativo -->
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff006e"/>
-      <stop offset="50%" stop-color="#8338ec"/>
-      <stop offset="100%" stop-color="#3a86ff"/>
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#2c5364"/>
+      <stop offset="100%" stop-color="#203a43"/>
     </linearGradient>
-    <!-- Gradiente para Formas Dinâmicas -->
-    <linearGradient id="shapeGradient1" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffd6a5" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#fb5607" stop-opacity="0.8"/>
+    <!-- Gradientes Secundários para Formas -->
+    <linearGradient id="accent1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d2ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#3a7bd5" stop-opacity="0.8"/>
     </linearGradient>
-    <linearGradient id="shapeGradient2" x1="100%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#80ffdb" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="#38b000" stop-opacity="0.7"/>
+    <linearGradient id="accent2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f953c6" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#b91cdb" stop-opacity="0.7"/>
     </linearGradient>
-    <!-- Sombra para Destaque das Formas -->
+    <!-- Sombra para Destaque -->
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.3"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.4"/>
     </filter>
-    <!-- Estilos de Texto -->
+    <!-- Estilos de Texto Premium -->
     <style>
-      .title { fill: #ffffff; font-family: 'Montserrat', sans-serif; font-size: 52px; font-weight: 700; }
-      .subtitle { fill: #f0f0f0; font-family: 'Montserrat', sans-serif; font-size: 24px; font-weight: 500; }
-      .skills { fill: #e0e0e0; font-family: 'Montserrat', sans-serif; font-size: 16px; }
+      .title { fill: #ffffff; font-family: 'Montserrat', sans-serif; font-size: 60px; font-weight: 700; }
+      .subtitle { fill: #ced6e0; font-family: 'Montserrat', sans-serif; font-size: 26px; font-weight: 500; }
+      .skills { fill: #abb2bf; font-family: 'Montserrat', sans-serif; font-size: 16px; }
     </style>
   </defs>
 
   <!-- Fundo -->
   <rect width="1280" height="300" fill="url(#bgGradient)" />
 
-  <!-- Formas à Esquerda -->
-  <polygon points="0,300 250,180 0,60" fill="url(#shapeGradient1)" filter="url(#shadow)" />
-  <circle cx="200" cy="150" r="90" fill="url(#shapeGradient2)" filter="url(#shadow)" />
-  <ellipse cx="380" cy="80" rx="140" ry="40" fill="#ffbe0b" opacity="0.6" filter="url(#shadow)" />
-  <path d="M450,300 C320,180 550,160 420,60 L600,0 L600,300 Z" fill="url(#shapeGradient1)" opacity="0.7" />
+  <!-- Formas Geométricas Profissionais -->
+  <path d="M0,300 L300,200 L0,100 Z" fill="url(#accent1)" filter="url(#shadow)" />
+  <circle cx="320" cy="240" r="60" fill="url(#accent2)" filter="url(#shadow)" />
+  <rect x="540" y="20" width="400" height="260" rx="30" fill="url(#accent1)" opacity="0.5" />
+  <polygon points="1280,0 980,60 1180,300 1280,240" fill="url(#accent2)" />
 
-  <!-- Destaques Animados -->
-  <circle cx="120" cy="40" r="8" fill="#ffffff" opacity="0.9">
-    <animate attributeName="r" values="5;15;5" dur="4s" repeatCount="indefinite" />
-  </circle>
-  <rect x="330" y="200" width="20" height="20" fill="#ffffff" opacity="0.8">
-    <animateTransform attributeName="transform" type="rotate" from="0 340 210" to="360 340 210" dur="6s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Linhas e Traços Dinâmicos -->
+  <line x1="280" y1="150" x2="450" y2="150" stroke="#ffffff" stroke-width="2" opacity="0.2" stroke-dasharray="8 4" />
+  <line x1="1000" y1="50" x2="1000" y2="250" stroke="#ffffff" stroke-width="1" opacity="0.3" stroke-dasharray="4 6" />
 
-  <!-- Linha Vertical de Separação -->
-  <line x1="640" y1="20" x2="640" y2="280" stroke="#ffffff" stroke-width="2" opacity="0.3" stroke-dasharray="4 4"/>
+  <!-- Animação Sutil de Pontos -->
+  <g>
+    <circle cx="600" cy="80" r="4" fill="#ffffff" opacity="0.6">
+      <animate attributeName="r" values="3;8;3" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="700" cy="220" r="5" fill="#ffffff" opacity="0.5">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="6s" repeatCount="indefinite" />
+    </circle>
+  </g>
 
-  <!-- Texto à Direita -->
-  <text x="680" y="100" class="title">Pedro H (Phkaiser13)</text>
-  <text x="680" y="145" class="subtitle">Engineer & Full‑Stack Developer</text>
-  <text x="680" y="185" class="skills">Software ・ Applications ・ AI & LLM</text>
-  <text x="680" y="210" class="skills">C/C++ ・ Rust ・ Java ・ C# ・ Python</text>
-  <text x="680" y="235" class="skills">DevOps ・ Cloud ・ IoT ・ Embedded Systems</text>
+  <!-- Divisor Central -->
+  <line x1="640" y1="10" x2="640" y2="290" stroke="#ffffff" stroke-width="2" opacity="0.15" />
 
-  <!-- Detalhes Ornamentais -->
-  <circle cx="1250" cy="30" r="3" fill="#ffffff" opacity="0.6">
-    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="5s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="1230" cy="260" r="5" fill="#ffffff" opacity="0.5"/>
-  <circle cx="1180" cy="150" r="4" fill="#ffffff" opacity="0.7"/>
+  <!-- Conteúdo de Texto Profissional à Direita -->
+  <text x="680" y="90" class="title">Pedro Henrique</text>
+  <text x="680" y="140" class="subtitle">Engineer & Full‑Stack Developer</text>
+  <text x="680" y="180" class="skills">Software ・ Applications ・ AI & LLM</text>
+  <text x="680" y="205" class="skills">C/C++ ・ Rust ・ Java ・ C# ・ Python</text>
+  <text x="680" y="230" class="skills">DevOps ・ Cloud ・ IoT ・ Embedded Systems</text>
+  <text x="680" y="255" class="skills">Oracle Certificado ・ AWS ・ Docker ・ Kubernetes</text>
+
+  <!-- Detalhes Ornamentais Finais -->
+  <circle cx="1250" cy="45" r="3" fill="#ffffff" opacity="0.4" />
+  <circle cx="1230" cy="260" r="4" fill="#ffffff" opacity="0.3" />
+  <circle cx="1180" cy="150" r="6" fill="#ffffff" opacity="0.5" />
 </svg>
