@@ -276,3 +276,11 @@
   <br>
   <em>"Busco transformar ideias complexas em soluções práticas. O impossível para mim só se torna impossível a partir do momento que eu não conseguir."</em>
 </p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=phkaiser13&label=VISITANTES%20DO%20UNIVERSO&color=50fa7b&style=for-the-badge&logo=galaxy" alt="Profile views"/>
+    <a href="https://github.com/phkaiser13?tab=followers"><img src="https://img.shields.io/github/followers/phkaiser13?style=for-the-badge&logo=github&color=bd93f9&labelColor=282A36&logoColor=white&label=SEGUIDORES" alt="GitHub Followers"/></a>
+    <a href="https://github.com/phkaiser13?tab=repositories"><img src="https://img.shields.io/github/stars/phkaiser13?style=for-the-badge&logo=github&color=ff79c6&labelColor=282A36&logoColor=white&label=ESTRELAS" alt="GitHub Stars"/></a>
+    <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=circleci&logoColor=white&labelColor=282A36" alt="Build Passing">
+    <img src="https://img.shields.io/badge/coverage-100%25-brightgreen?style=for-the-badge&logo=coveralls&logoColor=white&labelColor=282A36" alt="Coverage 100%">
+</p>
