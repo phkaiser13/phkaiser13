@@ -122,44 +122,55 @@
                                                                 ARSENAL TECNOLÓGICO
 ================================================================================================================================================================
 -->
-## 🛠️ Meu Arsenal Tecnológico
+<h2 align="center" style="color: #f8f8f2; border-bottom: 3px solid #ff5555; padding-bottom: 10px; text-shadow: 0 0 10px #ff5555;">
+  <img src="https://img.icons8.com/nolan/64/experimental-toolbox-nolan.png" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+  Arsenal Tecnológico
+</h2>
 
-<p align="center">
-  Minha caixa de ferramentas está sempre evoluindo. Estas são as tecnologias com as quais tenho mais afinidade e experiência para criar soluções de ponta.
-</p>
-<br>
-<div align="center">
-    <details open>
-      <summary><b>Linguagens de Programação</b></summary>
-      <br>
-      <div align="center">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-        <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-        <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=TypeScript&logoColor=black" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-      </div>
-    </details>
-    <details open>
-      <summary><b>IA, Embarcados & Sistemas</b></summary>
-      <br>
-      <div align="center">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/LLMOps-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMOps"/>
-        <img src="https://img.shields.io/badge/AI_Tooling-F2A249?style=for-the-badge&logo=google-cloud&logoColor=black" alt="AI Tooling"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-        <img src="https://img.shields.io/badge/IoT-2095E8?style=for-the-badge&logo=e-weblink&logoColor=white" alt="IoT"/>
-        <img src="https://img.shields.io/badge/Microcontrollers-D94A3D?style=for-the-badge&logo=espressif&logoColor=white" alt="Microcontrollers"/>
-        <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=amd&logoColor=white" alt="Assembly"/>
-        <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
-      </div>
-    </details>
-</div>
+<table width="100%" align="center" style="margin-top: 30px;">
+  <tr>
+    <!-- Linguagens Primárias -->
+    <td align="center" valign="top" width="50%">
+      <details open>
+        <summary>
+          <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">🔩 Linguagens Primárias e Compiladas</h3>
+        </summary>
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs,swift,kotlin,rust&perline=4" alt="Linguagens Primárias" style="margin-top: 10px;"/>
+      </details>
+    </td>
+    <!-- Inteligência Artificial -->
+    <td align="center" valign="top" width="50%">
+      <details open>
+        <summary>
+          <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">🧠 Inteligência Artificial & Ciência de Dados</h3>
+        </summary>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,bots,sklearn&perline=4" alt="IA e Dados" style="margin-top: 10px;"/>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <!-- Embarcados e Sistemas -->
+    <td align="center" valign="top" width="50%" style="padding-top: 30px;">
+      <details open>
+        <summary>
+          <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">🤖 Embarcados, IoT & Sistemas Operacionais</h3>
+        </summary>
+        <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,bash,wasm,cmake,embeddedc&perline=4" alt="Embarcados e IoT" style="margin-top: 10px;"/>
+      </details>
+    </td>
+    <!-- DevOps e Nuvem -->
+    <td align="center" valign="top" width="50%" style="padding-top: 30px;">
+      <details open>
+        <summary>
+          <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">☁️ DevOps, Nuvem & Infraestrutura</h3>
+        </summary>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,nginx,ansible&perline=4" alt="DevOps e Nuvem" style="margin-top: 10px;"/>
+      </details>
+    </td>
+  </tr>
+</table>
+
+
 
 <!-- 
 ================================================================================================================================================================
