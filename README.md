@@ -77,7 +77,6 @@
     🛠️ Meu Arsenal Tecnológico
   </summary>
   <div style="background-color: #0d1117; border-radius: 10px; padding: 25px; margin-top: 10px; border: 1px solid #30363d;">
-    
     <h3 align="center" style="color: #c9d1d9;">Linguagens de Programação</h3>
     <table width="100%" align="center" style="border: none; margin-bottom: 20px;">
       <tr align="center">
@@ -92,7 +91,6 @@
       </tr>
     </table>
     <hr style="border-color: #30363d;">
-
     <h3 align="center" style="color: #c9d1d9;">Hardware, Embarcados & IoT</h3>
     <table width="100%" align="center" style="border: none; margin-bottom: 20px;">
       <tr align="center">
@@ -106,7 +104,6 @@
       </tr>
     </table>
     <hr style="border-color: #30363d;">
-
     <h3 align="center" style="color: #c9d1d9;">IA, Frameworks & Ferramentas</h3>
     <table width="100%" align="center" style="border: none;">
       <tr align="center">
@@ -121,7 +118,6 @@
     </table>
   </div>
 </details>
-
 <!-- ====================================================== -->
 <!-- SEÇÃO DE PROJETOS EM DESTAQUE -->
 <!-- ====================================================== -->
@@ -130,7 +126,6 @@
     🚀 Projetos em Destaque
   </summary>
   <div style="background-color: #0d1117; border-radius: 10px; padding: 25px; margin-top: 10px; border: 1px solid #30363d;">
-    
     <!-- CARD DE PROJETO 1: Trackie -->
     <table width="100%" style="border-radius: 8px; border: 2px solid #30363d; background-color: #161b22; margin-bottom: 20px;">
       <tr style="background-color: #1f242c;">
@@ -152,7 +147,6 @@
         </td>
       </tr>
     </table>
-
     <!-- CARD DE PROJETO 2: MODELO -->
     <table width="100%" style="border-radius: 8px; border: 2px solid #30363d; background-color: #161b22;">
       <tr style="background-color: #1f242c;">
@@ -174,7 +168,6 @@
     </table>
   </div>
 </details>
-
 <!-- ====================================================== -->
 <!-- SEÇÃO ATIVIDADE RECENTE (AUTOMATIZADA) -->
 <!-- ====================================================== -->
@@ -189,8 +182,6 @@
     <!--END_SECTION:activity-->
   </div>
 </details>
-
-
 <!-- ====================================================== -->
 <!-- SEÇÃO DE CONTATO -->
 <!-- ====================================================== -->
@@ -209,7 +200,6 @@
     </a>
   </div>
 </div>
-
 <!-- ====================================================== -->
 <!-- RODAPÉ -->
 <!-- ====================================================== -->
