@@ -277,10 +277,18 @@
   <em>"Busco transformar ideias complexas em soluções práticas. O impossível para mim só se torna impossível a partir do momento que eu não conseguir."</em>
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=phkaiser13&label=VISITANTES%20DO%20UNIVERSO&color=50fa7b&style=for-the-badge&logo=galaxy" alt="Profile views"/>
-    <a href="https://github.com/phkaiser13?tab=followers"><img src="https://img.shields.io/github/followers/phkaiser13?style=for-the-badge&logo=github&color=bd93f9&labelColor=282A36&logoColor=white&label=SEGUIDORES" alt="GitHub Followers"/></a>
-    <a href="https://github.com/phkaiser13?tab=repositories"><img src="https://img.shields.io/github/stars/phkaiser13?style=for-the-badge&logo=github&color=ff79c6&labelColor=282A36&logoColor=white&label=ESTRELAS" alt="GitHub Stars"/></a>
-    <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=circleci&logoColor=white&labelColor=282A36" alt="Build Passing">
-    <img src="https://img.shields.io/badge/coverage-100%25-brightgreen?style=for-the-badge&logo=coveralls&logoColor=white&labelColor=282A36" alt="Coverage 100%">
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=phkaiser13.phkaiser13&left_color=darkviolet&right_color=orchid" width="80" />
+</div>
+
+<div align="center">
+  
+  [![phkaiser13's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phkaiser13&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="https://streak-stats.demolab.com?user=phkaiser13&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=phkaiser13&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
+
+
