@@ -277,9 +277,7 @@
   <em>"Busco transformar ideias complexas em soluções práticas. O impossível para mim só se torna impossível a partir do momento que eu não conseguir."</em>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=phkaiser13.phkaiser13&left_color=darkviolet&right_color=orchid" width="80" />
-</div>
+
 
 <div align="center">
   
