@@ -127,7 +127,9 @@
                                                                 PROJETOS EM DESTAQUE
 ================================================================================================================================================================
 -->
-## 🚀 Projetos em Destaque
+<h2 align="center" style="color: #f8f8f2; border-bottom: 3px solid #ff5555; padding-bottom: 10px; text-shadow: 0 0 10px #ff5555;">
+  🚀 Projetos em Destaque
+</h2>
 
 <table width="100%">
   <tr>
