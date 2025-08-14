@@ -65,56 +65,7 @@
 
 <div align="center">
       
-<template id="disabled-block">
-  <!-- TÍTULO -->
-  <h2 align="center" style="color: #f8f8f2; padding-bottom: 10px; text-shadow: 0 0 10px #50fa7b;">
-    <img src="https://img.icons8.com/ios-filled/50/50fa7b/source-code.png" width="32" style="vertical-align: -5px; margin-right: 8px;" />
-    Análise de Linguagens e Contribuições
-  </h2>
-  <hr style="border: none; border-top: 1px solid #444; width: 60%; margin: 10px auto 40px auto;" />
 
-  <!-- ROW COM 3 CARTÕES -->
-  <table>
-    <tr>
-      <td align="center" valign="top" style="padding: 0 15px;">
-        <h3 style="color: #ff79c6; margin-bottom: 10px;">
-          🧠 <br/>
-          <span style="font-size: 0.95em;">Sistemas Embarcados & Kernels</span>
-        </h3>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&repo=TrackieOS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
-          alt="Linguagens Kernel"
-          style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
-        />
-      </td>
-      <!-- Linguagens Gerais -->
-      <td align="center" valign="top" style="padding: 0 15px;">
-        <h3 style="color: #8be9fd; margin-bottom: 10px;">
-          🌌 <br/>
-          <span style="font-size: 0.95em;">Constelação de Linguagens</span>
-        </h3>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkaiser13&layout=compact&langs_count=12&theme=dracula&hide_border=true&border_radius=12&bg_color=282A36&exclude_repo=TrackieOS"
-          alt="Linguagens Gerais"
-          style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
-        />
-      </td>
-      <!-- Contribuições -->
-      <td align="center" valign="top" style="padding: 0 15px;">
-        <h3 style="color: #8be9fd; margin-bottom: 10px;">
-          🚀 <br/>
-          <span style="font-size: 0.95em;">Galáxia de Contribuições</span>
-        </h3>
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=phkaiser13&theme=dracula&hide_border=true&border_radius=12&background=282A36"
-          alt="GitHub Streak Stats"
-          style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
-</template>
 
 
 
