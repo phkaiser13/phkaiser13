@@ -117,7 +117,7 @@ Especializado em **engenharia de software de alto nível**, desenvolvo soluçõe
 </td>
 <td align="center" valign="top" width="50%" style="padding-top: 30px;">
     <summary>
-      <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">⚙️ Frameworks de Back-End</h3>
+      <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">⚙️ Back-End Frameworks</h3>
     </summary>
     <div style="margin-top: 10px;">
       <!-- Spring Boot -->
