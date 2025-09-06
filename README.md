@@ -18,7 +18,8 @@
 </div>
 
 > *"I develop complex, high-level engineering. The impossible only becomes impossible when I'm sure I can't do it."*
-> *"Eu desenvolvo engenharia complexa e de alto nível. O impossível só se torna impossível no momento em que eu tiver certeza que não consigo realizá-lo."*
+
+> *""Eu desenvolvo engenharia complexa e de alto nível. O impossível só se torna impossível no momento em que eu tiver certeza que não consigo realizá-lo.""*
 
 ---
 
