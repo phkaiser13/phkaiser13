@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/Mission-Transforming%20Complex%20Ideas%20Into%20Scalable%20Solutions-667eea?style=for-the-badge&labelColor=1a1a2e&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Im0xMiAybDMuMDkgNi4yNkwyMiA5bC00IDUuNzRMMjIgMjBsLTYuOTEuNzRMMTIgMjJsLTMuMDktMS4yNkwyIDIwbDQtNS43NEwyIDlsNi45MS0uNzRMMTIgMnoiLz48L3N2Zz4="/>
 </div>
 
-> *"Eu desenvolvo engenharia complexa e de alto nível. O impossível só se torna impossível no momento em que não consigo realizá-lo."*
+> *"I develop complex, high-level engineering. The impossible only becomes impossible when I'm sure I can't do it."*
+> *"Eu desenvolvo engenharia complexa e de alto nível. O impossível só se torna impossível no momento em que eu tiver certeza que não consigo realizá-lo."*
 
 ---
 
