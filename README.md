@@ -55,25 +55,89 @@ Especializado em **engenharia de software de alto nível**, desenvolvo soluçõe
 
 ---
 
-## 🛠️ **Technology Stack**
+<!-- 
+================================================================================================================================================================
+                                                                Tec ARSENAL
+================================================================================================================================================================
+-->
+#### **🌟 Programming/Engineering:**
 
-<div align="center">
+<table width="100%" align="center" style="margin-top: 30px;">
+  <tr>
+    <!-- Compiled Languages -->
+    <td align="center" valign="top" width="50%">
+        <summary>
+          <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">Favorite Langs</h3>
+        </summary>
+        <img src="https://skillicons.dev/icons?i=c,cpp,zig,rust" alt="Compiled Languages" style="margin-top: 10px;"/>
+      </details>
+    </td>
+    <!-- JVM & Managed Languages -->
+    <td align="center" valign="top" width="50%">
+        <summary>
+          <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">Managed Langs</h3>
+        </summary>
+        <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python" alt="Managed" style="margin-top: 10px;"/>
+      </details>
+    </td>
+  </tr>
+</table>
+<table width="100%" align="center" style="margin-top: 30px;">
+  <tr>
+    <!-- Version Control & CI/CD -->
+    <td align="center" valign="top" width="50%">
+        <summary>
+          <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;"> Version Control & CI/CD</h3>
+        </summary>
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,circleci" alt="VCS & CI/CD" style="margin-top: 10px;"/>
+      </details>
+    </td>
+    <!-- Cloud & Containers -->
+    <td align="center" valign="top" width="50%">
+        <summary>
+          <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">☁️ Cloud & Containers</h3>
+        </summary>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure" alt="Cloud & Containers" style="margin-top: 10px;"/>
+      </details>
+    </td>
+  </tr>
+  <tr>
+<td align="center" valign="top" width="50%" style="padding-top: 30px;">
+    <summary>
+      <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">📡 APIs & Dev Tools</h3>
+    </summary>
+    <div style="margin-top: 10px;">
+      <!-- OpenAPI e Swagger do Icons8/SmartBear -->
+      <img src="https://img.icons8.com/?size=50&id=Oz14KBnT7lnn&format=png&color=000000" alt="OpenAPI" style="display: inline-block; margin: 5px; vertical-align: middle;"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVzJIt4WG7k42TLztNxg2805tC0Kuk9AfsqbPcr84MjA&s&ec=73068120" alt="Swagger" style="display: inline-block; margin: 5px; vertical-align: middle; width: 50px; height: 50px;"/>
+      <!-- Outros do Skillicons -->
+      <img src="https://skillicons.dev/icons?i=graphql,postman,terraform" alt="APIs & Dev Tools" style="display: inline-block; margin: 5px; vertical-align: middle;"/>
+    </div>
+  </details>
+</td>
+<td align="center" valign="top" width="50%" style="padding-top: 30px;">
+    <summary>
+      <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">⚙️ Frameworks de Back-End</h3>
+    </summary>
+    <div style="margin-top: 10px;">
+      <!-- Spring Boot -->
+      <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" style="display: inline-block; margin: 5px; vertical-align: middle; width: 50px; height: 50px;"/>
+      <!-- Django -->
+      <img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" alt="Django" style="display: inline-block; margin: 5px; vertical-align: middle; width: 50px; height: 50px;"/>
+      <!-- Actix Web -->
+      <img src="https://actix.rs/img/logo-icon.png" alt="Actix Web" style="display: inline-block; margin: 5px; vertical-align: middle; width: 50px; height: 50px;"/>
+      <!-- Rocket -->
+      <img src="https://avatars.githubusercontent.com/u/106361765?s=48&amp;v=4" alt="Rocket" style="display: inline-block; margin: 5px; vertical-align: middle; width: 50px; height: 50px;"/>
+      <!-- CppCMS -->
+      <img src="http://cppcms.com/logo.png" alt="CppCMS" style="display: inline-block; margin: 5px; vertical-align: middle; width: 50px; height: 50px;"/>
+    </div>
+  </details>
+</td>
 
-### **Core Systems Languages**
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=667eea)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=667eea)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white&labelColor=667eea)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=667eea)
 
-### **Enterprise & Performance**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=764ba2)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=764ba2)
 
-### **Additional Proficiencies**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=f093fb)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=f093fb)
 
-</div>
+</table>
 
 ---
 
