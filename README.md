@@ -77,7 +77,7 @@ Especializado em **engenharia de software de alto nível**, desenvolvo soluçõe
     <!-- JVM & Managed Languages -->
     <td align="center" valign="top" width="50%">
         <summary>
-          <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">Managed Langs</h3>
+          <h3 style="color: #f1fa8c; text-shadow: 0 0 6px #f1fa8c;">dominated languages</h3>
         </summary>
         <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python" alt="Managed" style="margin-top: 10px;"/>
       </details>
