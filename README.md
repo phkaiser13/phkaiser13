@@ -1,27 +1,3 @@
-# 
-<div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Pedro%20Henrique%20Garcia&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Systems%20Architect&descAlignY=55&descSize=18)
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Complex+Engineering+Solutions;Crafting+High-Performance+Systems;Rust+%7C+C+%7C+Zig+%7C+C%2B%2B+%7C+Java+%7C+Kotlin" alt="Typing Animation" />
-</div>
-
----
-
-## 🎯 **Engineering Philosophy**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Mission-Transforming%20Complex%20Ideas%20Into%20Scalable%20Solutions-667eea?style=for-the-badge&labelColor=1a1a2e&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Im0xMiAybDMuMDkgNi4yNkwyMiA5bC00IDUuNzRMMjIgMjBsLTYuOTEuNzRMMTIgMjJsLTMuMDktMS4yNkwyIDIwbDQtNS43NEwyIDlsNi45MS0uNzRMMTIgMnoiLz48L3N2Zz4="/>
-</div>
-
-> *"I develop complex, high-level engineering. The impossible only becomes impossible when I'm sure I can't do it."*
-
-> *""Eu desenvolvo engenharia complexa e de alto nível. O impossível só se torna impossível no momento em que eu tiver certeza que não consigo realizá-lo.""*
-
----
 
 ## 👨‍💻 **About Me**
 
